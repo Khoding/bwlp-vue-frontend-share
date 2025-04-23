@@ -16,6 +16,8 @@ import LectureDuplicateView from '@/views/duplicate/LectureDuplicateView.vue';
 import UserAgreementView from '@/views/legal-views/UserAgreementView.vue';
 import PrivacyPolicyView from '@/views/legal-views/PrivacyPolicyView.vue';
 
+import NotFoundView from '@/views/error/NotFoundView.vue';
+
 const routes: RouteRecordRaw[] = [
   {
     path: '/',
@@ -153,10 +155,13 @@ const routes: RouteRecordRaw[] = [
       title: 'Privacy Policy',
     },
   },
-
   {
     path: '/:pathMatch(.*)*',
-    redirect: '/image',
+    name: 'NotFound',
+    component: NotFoundView,
+    meta: {
+      title: '404 Page not found',
+    },
   },
 ];
 
