@@ -1,0 +1,5202 @@
+[
+  {
+    "lectureId": "004673ef-cd81-4b36-b404-eb77b68b01f1",
+    "lectureName": "240417_Statistik_Resit",
+    "description": "Nachklausur Statistik",
+    "imageVersionId": "9d8b1f7a-39b0-4c17-a24e-ebb92c56ddc0",
+    "imageBaseId": "550be3d8-b5cb-4718-8fe4-4ab9ecfec6cf",
+    "isEnabled": true,
+    "startTime": 1713132000,
+    "endTime": 1713477540,
+    "lastUsed": 1713365971,
+    "useCount": 47,
+    "ownerId": "owner_anon_1",
+    "updaterId": "updater_anon_1",
+    "isExam": true,
+    "hasInternetAccess": false,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "0332dab2-1de7-4a1a-8264-a9e87ce4120f",
+    "lectureName": "Ubuntu_22.04_LTS_Standard-Image_qemu",
+    "description": "Ubuntu 22.04 LTS 64bit: Oberfläche Gnome mit LibreOffice (openOffice), gimp, VLC",
+    "imageVersionId": "63edc778-fb4c-418a-8cd8-5e0056b6547c",
+    "imageBaseId": "a465635a-5c8d-4c82-9d49-3380d8a64574",
+    "isEnabled": true,
+    "startTime": 1713909600,
+    "endTime": 1753999140,
+    "lastUsed": 1743674746,
+    "useCount": 130,
+    "ownerId": "owner_anon_2",
+    "updaterId": "updater_anon_2",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "0444d428-fefe-4a37-b82c-945ef2b345e9",
+    "lectureName": "DH Lab - VMware Win10",
+    "description": "Digital Humanities Lab\nZentrale Einrichtung der Philologischen Fakultät\n\n",
+    "imageVersionId": "b8c17b5a-8a54-4c80-8789-36f166efb484",
+    "imageBaseId": "df0ec595-0d88-4fb9-bdfe-4d4591efdbf7",
+    "isEnabled": true,
+    "startTime": 1722981600,
+    "endTime": 1746136740,
+    "lastUsed": 1742471190,
+    "useCount": 36,
+    "ownerId": "owner_anon_3",
+    "updaterId": "updater_anon_3",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "044cadbe-4270-4171-a946-cd9bfd5d9dda",
+    "lectureName": "250411_Genetik-Resit",
+    "description": "Genetik Nachklausur",
+    "imageVersionId": "9d8b1f7a-39b0-4c17-a24e-ebb92c56ddc0",
+    "imageBaseId": "550be3d8-b5cb-4718-8fe4-4ab9ecfec6cf",
+    "isEnabled": true,
+    "startTime": 1740610800,
+    "endTime": 1744408740,
+    "lastUsed": 1744363005,
+    "useCount": 92,
+    "ownerId": "owner_anon_4",
+    "updaterId": "updater_anon_4",
+    "isExam": true,
+    "hasInternetAccess": false,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "04d34ae8-38e5-4b22-81f7-c43b2c9c91f1",
+    "lectureName": "Exam_Concurrency_TF",
+    "description": "Für die Technische Fakultät, Informatik Peter Thiemann (thiemann@informatik.uni-freiburg.de), \"Concurrency, Theory and Practice\"",
+    "imageVersionId": "9d8b1f7a-39b0-4c17-a24e-ebb92c56ddc0",
+    "imageBaseId": "550be3d8-b5cb-4718-8fe4-4ab9ecfec6cf",
+    "isEnabled": true,
+    "startTime": 1723154400,
+    "endTime": 1727215140,
+    "lastUsed": 1727186064,
+    "useCount": 67,
+    "ownerId": "owner_anon_5",
+    "updaterId": "updater_anon_4",
+    "isExam": true,
+    "hasInternetAccess": false,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": false
+  },
+  {
+    "lectureId": "0500215c-6af2-43cc-8192-5e644952ef6f",
+    "lectureName": "Bioinformatik Crystallography",
+    "description": "Bioinformatik Crystallography",
+    "imageVersionId": null,
+    "imageBaseId": null,
+    "isEnabled": false,
+    "startTime": 1686261600,
+    "endTime": 1718575140,
+    "lastUsed": 1709150741,
+    "useCount": 79,
+    "ownerId": "owner_anon_6",
+    "updaterId": "updater_anon_6",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": false,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "0713d248-2fec-4a62-8092-d0f7bd301d83",
+    "lectureName": "IES  Geographic Information Systems",
+    "description": "Open Source GIS Software",
+    "imageVersionId": "86b74bff-cf76-4cac-bb82-cbbd304526be",
+    "imageBaseId": "1a5cc6cb-0017-4de8-8898-4d81e1161d2f",
+    "isEnabled": true,
+    "startTime": 1703890800,
+    "endTime": 1751320740,
+    "lastUsed": 1734714236,
+    "useCount": 112,
+    "ownerId": "owner_anon_7",
+    "updaterId": "updater_anon_7",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "074ee683-b615-4ba6-8eb7-236edfd15229",
+    "lectureName": "Pruefung DGL - E-Klausur",
+    "description": "Prüfung zur Veranstaltung Differentialgleichungen",
+    "imageVersionId": "6e5e31b2-9ca0-4fe0-bc18-92d08569f5ad",
+    "imageBaseId": "3bc8aa82-4844-4784-893d-c7f7cfc74e18",
+    "isEnabled": false,
+    "startTime": 1703977200,
+    "endTime": 1725055140,
+    "lastUsed": 1722844059,
+    "useCount": 1232,
+    "ownerId": "owner_anon_8",
+    "updaterId": "updater_anon_8",
+    "isExam": false,
+    "hasInternetAccess": false,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": false
+  },
+  {
+    "lectureId": "081f2aa9-d2cf-4ded-83c3-3481ef8add4b",
+    "lectureName": "250227_RCP",
+    "description": "Klausur Regulation and Competition Policy",
+    "imageVersionId": "9d8b1f7a-39b0-4c17-a24e-ebb92c56ddc0",
+    "imageBaseId": "550be3d8-b5cb-4718-8fe4-4ab9ecfec6cf",
+    "isEnabled": true,
+    "startTime": 1740351600,
+    "endTime": 1740697140,
+    "lastUsed": 1740653619,
+    "useCount": 41,
+    "ownerId": "owner_anon_4",
+    "updaterId": "updater_anon_4",
+    "isExam": true,
+    "hasInternetAccess": false,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "093e09cb-9167-47f7-a017-0780b590457a",
+    "lectureName": "BCF-Windows_10-Matlab_2014a",
+    "description": "BCF courses using Matlab\n\n(Matlab, Acrobat Reader, CDBurnerXP, Filezilla, PDFCreator, PuTTy)",
+    "imageVersionId": "078e4bee-99c9-4959-a47e-c90945724f47",
+    "imageBaseId": "8d318285-d980-402e-90e9-0560baf399e2",
+    "isEnabled": true,
+    "startTime": 1694901600,
+    "endTime": 1756677540,
+    "lastUsed": 1743876649,
+    "useCount": 845,
+    "ownerId": "owner_anon_9",
+    "updaterId": "updater_anon_10",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "0a07a18c-8016-4c55-b8fb-3b85ead3cadd",
+    "lectureName": "250131_SprachtestAnglistik",
+    "description": "Anglistik Sprachtest",
+    "imageVersionId": "9d8b1f7a-39b0-4c17-a24e-ebb92c56ddc0",
+    "imageBaseId": "550be3d8-b5cb-4718-8fe4-4ab9ecfec6cf",
+    "isEnabled": true,
+    "startTime": 1738018800,
+    "endTime": 1738364340,
+    "lastUsed": 1738323757,
+    "useCount": 42,
+    "ownerId": "owner_anon_4",
+    "updaterId": "updater_anon_4",
+    "isExam": true,
+    "hasInternetAccess": false,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "0b999c4a-0aed-41c4-a8a2-7af64e247744",
+    "lectureName": "250228_EEA",
+    "description": "Klausur \"Electrochemical energy applications\"",
+    "imageVersionId": "9d8b1f7a-39b0-4c17-a24e-ebb92c56ddc0",
+    "imageBaseId": "550be3d8-b5cb-4718-8fe4-4ab9ecfec6cf",
+    "isEnabled": true,
+    "startTime": 1740351600,
+    "endTime": 1740783540,
+    "lastUsed": 1740739612,
+    "useCount": 76,
+    "ownerId": "owner_anon_4",
+    "updaterId": "updater_anon_4",
+    "isExam": true,
+    "hasInternetAccess": false,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "0cc1443e-7ccb-4afa-9930-2879c4745489",
+    "lectureName": "250218_EnvStats",
+    "description": "Klausur Environmemntal Statistics\nEigene VM",
+    "imageVersionId": "a805ff07-88f9-4749-888b-4ae9dbac9f36",
+    "imageBaseId": "6da248fd-47f6-4bc2-9f47-6b434cd9cb4b",
+    "isEnabled": true,
+    "startTime": 1738623600,
+    "endTime": 1739919540,
+    "lastUsed": 1739875704,
+    "useCount": 154,
+    "ownerId": "owner_anon_4",
+    "updaterId": "updater_anon_4",
+    "isExam": true,
+    "hasInternetAccess": false,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "0d189ceb-858a-4d61-a9b8-1b303a046a21",
+    "lectureName": "250117_Neuroscience",
+    "description": "Klausur Neuroscience",
+    "imageVersionId": "9d8b1f7a-39b0-4c17-a24e-ebb92c56ddc0",
+    "imageBaseId": "550be3d8-b5cb-4718-8fe4-4ab9ecfec6cf",
+    "isEnabled": true,
+    "startTime": 1736377200,
+    "endTime": 1737154740,
+    "lastUsed": 1737117573,
+    "useCount": 65,
+    "ownerId": "owner_anon_4",
+    "updaterId": "updater_anon_4",
+    "isExam": true,
+    "hasInternetAccess": false,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "0d20ddfd-d115-4f94-90b1-0bbb39af0af3",
+    "lectureName": "openSuse 15.6 RStudio",
+    "description": "openSuse 15.6 64bit mit R, RStudio, Libreoffice, Firefox usw.",
+    "imageVersionId": "d4202ad4-7a70-41e7-aafd-c334ddcaaa4d",
+    "imageBaseId": "368ce659-fb77-4878-909c-94a7931e3377",
+    "isEnabled": true,
+    "startTime": 1739142000,
+    "endTime": 1758319140,
+    "lastUsed": 1739948330,
+    "useCount": 12,
+    "ownerId": "owner_anon_5",
+    "updaterId": "updater_anon_5",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "0e1952ba-ac3b-45c5-874b-d872e8f2722e",
+    "lectureName": "Ansible-Schulung Sept 2024 ansible-core",
+    "description": "Mit ansible-core",
+    "imageVersionId": "a3dbfaec-fd38-41f0-b01a-730c33484176",
+    "imageBaseId": "8eff8b54-eabe-4169-850c-c94dc5ec74aa",
+    "isEnabled": true,
+    "startTime": 1727042400,
+    "endTime": 1727647140,
+    "lastUsed": 1727260402,
+    "useCount": 30,
+    "ownerId": "owner_anon_5",
+    "updaterId": "updater_anon_5",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "0e6b5a2d-0265-4862-a7da-7dd533e96beb",
+    "lectureName": "Luca Testraum",
+    "description": "Image Testveranstaltung, nicht für studentische Nutzung geeignet",
+    "imageVersionId": "ee1d2649-c3d4-4ad2-aa4d-3972e2f64d0c",
+    "imageBaseId": "21dbe3ac-cadd-4e3b-9d89-af8ff9c73e19",
+    "isEnabled": true,
+    "startTime": 1716760800,
+    "endTime": 1732316340,
+    "lastUsed": 1732176147,
+    "useCount": 11,
+    "ownerId": "owner_anon_11",
+    "updaterId": "updater_anon_11",
+    "isExam": false,
+    "hasInternetAccess": false,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "0e7fd0e2-4ba9-4c82-b932-3cdc9da9ceb1",
+    "lectureName": "250129_SpeakingEnglish-DN-TEST",
+    "description": "Wie 250129_SpeakingEnglish, nur auf VM ohne systemd-resolv",
+    "imageVersionId": "926fc197-2cad-42db-9938-30b203e308d3",
+    "imageBaseId": "6018c02d-2149-49af-8c3f-c3e2358076eb",
+    "isEnabled": true,
+    "startTime": 1738018800,
+    "endTime": 1738105140,
+    "lastUsed": 1738077628,
+    "useCount": 7,
+    "ownerId": "owner_anon_5",
+    "updaterId": "updater_anon_5",
+    "isExam": false,
+    "hasInternetAccess": false,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": false
+  },
+  {
+    "lectureId": "0eb929d2-722c-4e33-9b54-928e50bc0c1d",
+    "lectureName": "Wirtschaftswissenschaften: Veranstaltungen mit Python",
+    "description": "Python3 für Seminare\nFirefox, Start Coursebat, LEGO MINDSTORMS Education EV 3,\n",
+    "imageVersionId": "6eab473c-5f6e-4b2d-b10f-3c63ab472c5d",
+    "imageBaseId": "eb853e30-5b0c-4e58-a5ce-57f3356053d8",
+    "isEnabled": false,
+    "startTime": 1557352800,
+    "endTime": 1755986340,
+    "lastUsed": 1691565155,
+    "useCount": 359,
+    "ownerId": "owner_anon_12",
+    "updaterId": "updater_anon_12",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "0f55ea82-8317-4fd5-ac7f-dd05e4d14094",
+    "lectureName": "Bioinformatics Forest",
+    "description": "Bioinformatics Course",
+    "imageVersionId": "9b900830-4731-48ab-8761-3c81988c8d34",
+    "imageBaseId": "ab6f8577-351d-4cb9-a1cf-85087b7e9452",
+    "isEnabled": true,
+    "startTime": 1717279200,
+    "endTime": 1753567140,
+    "lastUsed": 1744275731,
+    "useCount": 188,
+    "ownerId": "owner_anon_13",
+    "updaterId": "updater_anon_13",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "0f9c876b-110e-4ed0-a005-4b27be5b6141",
+    "lectureName": "win10cpvmtest",
+    "description": "test",
+    "imageVersionId": null,
+    "imageBaseId": null,
+    "isEnabled": false,
+    "startTime": 1716328800,
+    "endTime": 1716415140,
+    "lastUsed": 1716370352,
+    "useCount": 2,
+    "ownerId": "owner_anon_2",
+    "updaterId": "updater_anon_2",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": false,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "100ae135-6000-4eaa-bc08-b447102f9085",
+    "lectureName": "241218_FloraFauna_Resit",
+    "description": "Nachklausur Flora & Fauna",
+    "imageVersionId": "9d8b1f7a-39b0-4c17-a24e-ebb92c56ddc0",
+    "imageBaseId": "550be3d8-b5cb-4718-8fe4-4ab9ecfec6cf",
+    "isEnabled": true,
+    "startTime": 1730761200,
+    "endTime": 1734562740,
+    "lastUsed": 1734515527,
+    "useCount": 34,
+    "ownerId": "owner_anon_4",
+    "updaterId": "updater_anon_4",
+    "isExam": true,
+    "hasInternetAccess": false,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "101544a3-8110-491c-9105-deb0cebb681d",
+    "lectureName": "openSuse 15.6 Julien",
+    "description": "Erste VM von Julien - oS 15.6 64bit",
+    "imageVersionId": "d3327bcc-d6a2-40b7-ba73-4993d1d4e657",
+    "imageBaseId": "0d9d36f6-24c2-4865-8fa3-cca74a67d600",
+    "isEnabled": true,
+    "startTime": 1727820000,
+    "endTime": 1730415540,
+    "lastUsed": 1729522231,
+    "useCount": 4,
+    "ownerId": "owner_anon_14",
+    "updaterId": "updater_anon_14",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "10d8ebc2-a598-47b5-8a40-d30b055ccb15",
+    "lectureName": "Test Exam DL",
+    "description": "Test Exam DL",
+    "imageVersionId": "74027814-7488-4729-993b-c5fd7ce6e13f",
+    "imageBaseId": "cc687abd-519e-4b77-9938-0f2d1748d137",
+    "isEnabled": true,
+    "startTime": 1736982000,
+    "endTime": 1739867400,
+    "lastUsed": 1739857973,
+    "useCount": 102,
+    "ownerId": "owner_anon_15",
+    "updaterId": "updater_anon_16",
+    "isExam": false,
+    "hasInternetAccess": false,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": false
+  },
+  {
+    "lectureId": "10fe1bb2-ae3a-439b-835e-a67bf6c536f1",
+    "lectureName": "Biologie Computer Pool (Win 10)",
+    "description": "Computerpools in der Biologie  \nWindows 10 (64 bit)\n\nInstallierte Software:\n -> 7-Zip\n -> Adobe Acrobat Reader\n -> CDBurnerXP\n -> FileZilla Client\n -> GIMP\n -> LibreOffice\n -> Microsoft Office 2016\n -> Mozilla Firefox\n -> Notepad++\n -> Paint.net\n -> PDFCreator\n -> PuTTY\n -> Anaconda+Biopython\n -> Pyzo\n -> VLC Player\n -> pymol (Edu)\n -> Perseus 1.6.6 und .Net Framework 4.8 runtime",
+    "imageVersionId": "95ebfea7-0968-46dc-a94b-e7dac0b7e7de",
+    "imageBaseId": "118dab3e-b280-4730-909c-a742ff570ea4",
+    "isEnabled": true,
+    "startTime": 1569880800,
+    "endTime": 1759269540,
+    "lastUsed": 1742199361,
+    "useCount": 1548,
+    "ownerId": "owner_anon_17",
+    "updaterId": "updater_anon_18",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "1140abba-11b3-4cbe-90b8-f06247391339",
+    "lectureName": "cow-Test Win10 vmplayer",
+    "description": "Nicht verwenden!",
+    "imageVersionId": "1d495959-d09e-4469-b168-228a4ae89d22",
+    "imageBaseId": "77e7aeab-394d-49b5-aa00-a0cf7f1611ca",
+    "isEnabled": true,
+    "startTime": 1716328800,
+    "endTime": 1719093540,
+    "lastUsed": 0,
+    "useCount": 0,
+    "ownerId": "owner_anon_5",
+    "updaterId": "updater_anon_5",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "11a30f7f-761d-42fb-a9a9-95da1a2617eb",
+    "lectureName": "Ansible-Schulung Sept 2024 x (deprecated)",
+    "description": "Ubuntu 22.04 LTS 64bit\nmit ansible, git, Codium",
+    "imageVersionId": "df3bd88a-52e7-45fb-bc8b-2836923617c2",
+    "imageBaseId": "8e5e3080-feeb-4ddd-b224-36d2a1db6dc4",
+    "isEnabled": true,
+    "startTime": 1726783200,
+    "endTime": 1733007540,
+    "lastUsed": 1730899255,
+    "useCount": 54,
+    "ownerId": "owner_anon_5",
+    "updaterId": "updater_anon_5",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "1259a0c0-92f5-4996-845b-811a8440be18",
+    "lectureName": "Windows 10 - Biologie II und III mit Druckfunktion",
+    "description": "-> LibreOffice\n-> Zotero\n-> Juri-M\n-> Citavi\n-> Acrobat Reader\n-> CD Burner XP\n-> vlc-Player (Wiedergabe von Mediendateien)\n-> GIMP 2 (Bildbearbeitungsprogramm)\n-> Paint (einfaches Bildbearbeitungsprogramm)\n-> Notepad++ (einfacher Editor)\n",
+    "imageVersionId": "8b751296-2ab7-4cfe-b7d1-254e59c0012b",
+    "imageBaseId": "0c43a883-fd48-46a4-ab7c-fd551b896c36",
+    "isEnabled": true,
+    "startTime": 1635807600,
+    "endTime": 1752011940,
+    "lastUsed": 1744227002,
+    "useCount": 94,
+    "ownerId": "owner_anon_19",
+    "updaterId": "updater_anon_19",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "15e6cb01-ff99-49fe-9b2a-6dae64d36d07",
+    "lectureName": "WEBGEO Lernkiosk",
+    "description": "WEBGEO Lernkiosk basierend auf Porteus Kiosk 5.0.0 mit Firefox 68.5.0 ESR und Flash 32.0.0.330",
+    "imageVersionId": "d36b8673-9249-4222-9fe9-ab98c84fefff",
+    "imageBaseId": "8d3c8a21-748a-4508-a6cb-dea8c3545740",
+    "isEnabled": true,
+    "startTime": 1590962400,
+    "endTime": 1745877600,
+    "lastUsed": 1741791236,
+    "useCount": 1175,
+    "ownerId": "owner_anon_20",
+    "updaterId": "updater_anon_20",
+    "isExam": false,
+    "hasInternetAccess": false,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": false
+  },
+  {
+    "lectureId": "17df6146-7074-4bc5-b820-0865d35b002a",
+    "lectureName": "250114_Psychosomatik",
+    "description": "Klausur Psychosomatik",
+    "imageVersionId": "9d8b1f7a-39b0-4c17-a24e-ebb92c56ddc0",
+    "imageBaseId": "550be3d8-b5cb-4718-8fe4-4ab9ecfec6cf",
+    "isEnabled": true,
+    "startTime": 1730847600,
+    "endTime": 1736895540,
+    "lastUsed": 1736875576,
+    "useCount": 301,
+    "ownerId": "owner_anon_4",
+    "updaterId": "updater_anon_4",
+    "isExam": true,
+    "hasInternetAccess": false,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "19501d5c-6818-4343-aaac-4a349a2d97c1",
+    "lectureName": "250213_Bioinformatik",
+    "description": "Klausur Bioinformatik",
+    "imageVersionId": "3ae760d9-f9b8-4a64-9a09-d24907aa9cdc",
+    "imageBaseId": "88f8ed75-0819-41eb-9d5a-f0e7d684bba7",
+    "isEnabled": true,
+    "startTime": 1739228400,
+    "endTime": 1744927140,
+    "lastUsed": 1744277393,
+    "useCount": 308,
+    "ownerId": "owner_anon_4",
+    "updaterId": "updater_anon_4",
+    "isExam": true,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "1b7fab44-693b-4ea6-9ebd-7a94b4ebe712",
+    "lectureName": "250306_Concurrency",
+    "description": "Concurrency-Klausur für letzte Reihe Raum 009",
+    "imageVersionId": "9d8b1f7a-39b0-4c17-a24e-ebb92c56ddc0",
+    "imageBaseId": "550be3d8-b5cb-4718-8fe4-4ab9ecfec6cf",
+    "isEnabled": true,
+    "startTime": 1740438000,
+    "endTime": 1741301940,
+    "lastUsed": 1741273379,
+    "useCount": 6,
+    "ownerId": "owner_anon_4",
+    "updaterId": "updater_anon_4",
+    "isExam": true,
+    "hasInternetAccess": false,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "1c8ef010-665b-4561-b535-59c8548d34b0",
+    "lectureName": "240717_VAN",
+    "description": "Klausur Virtuelle Akademie für Nachhaltigkeit",
+    "imageVersionId": "9d8b1f7a-39b0-4c17-a24e-ebb92c56ddc0",
+    "imageBaseId": "550be3d8-b5cb-4718-8fe4-4ab9ecfec6cf",
+    "isEnabled": true,
+    "startTime": 1718748000,
+    "endTime": 1721339940,
+    "lastUsed": 1718787638,
+    "useCount": 1,
+    "ownerId": "owner_anon_4",
+    "updaterId": "updater_anon_4",
+    "isExam": true,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "1c9f83c6-460e-4e14-a813-966be98ef315",
+    "lectureName": "DGL-Exam",
+    "description": "Test",
+    "imageVersionId": "8a580ddf-70fa-46cb-b4f8-cede11238a56",
+    "imageBaseId": "d8ddb5dc-ad37-461d-bd03-761e39f6bbc4",
+    "isEnabled": true,
+    "startTime": 1739314800,
+    "endTime": 1743458340,
+    "lastUsed": 1740748540,
+    "useCount": 224,
+    "ownerId": "owner_anon_8",
+    "updaterId": "updater_anon_4",
+    "isExam": false,
+    "hasInternetAccess": false,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "1ce9c5e3-5478-4f0d-8514-d0b22c5c899c",
+    "lectureName": "MedTechnik_v3_BTast_USB",
+    "description": "Für Hörsaal Medientechnik",
+    "imageVersionId": "412c7079-a0fc-4633-99d8-924e501f714e",
+    "imageBaseId": "25a95915-d73b-4da9-a012-0d33b2a62fc2",
+    "isEnabled": true,
+    "startTime": 1725919200,
+    "endTime": 1740783540,
+    "lastUsed": 1728531088,
+    "useCount": 18,
+    "ownerId": "owner_anon_5",
+    "updaterId": "updater_anon_5",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "1e553f91-a217-443f-994c-a937c10a68a9",
+    "lectureName": "2025 WIP test",
+    "description": "testing VM for WiP exam",
+    "imageVersionId": "c481693a-fc08-4096-a271-6d3df0257755",
+    "imageBaseId": "1b273427-01a9-45d1-8c75-e09f3fba8913",
+    "isEnabled": true,
+    "startTime": 1737327600,
+    "endTime": 1746050340,
+    "lastUsed": 1744660095,
+    "useCount": 95,
+    "ownerId": "owner_anon_21",
+    "updaterId": "updater_anon_21",
+    "isExam": false,
+    "hasInternetAccess": false,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": true
+    },
+    "userPermissions": {
+      "edit": true,
+      "admin": true
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": false
+  },
+  {
+    "lectureId": "1ec57610-5c1d-44fa-8805-98881deb4d9b",
+    "lectureName": "250225_Biosphäre",
+    "description": "Klauusr Biosphäre",
+    "imageVersionId": "9d8b1f7a-39b0-4c17-a24e-ebb92c56ddc0",
+    "imageBaseId": "550be3d8-b5cb-4718-8fe4-4ab9ecfec6cf",
+    "isEnabled": true,
+    "startTime": 1740438000,
+    "endTime": 1740524340,
+    "lastUsed": 1740476020,
+    "useCount": 272,
+    "ownerId": "owner_anon_4",
+    "updaterId": "updater_anon_4",
+    "isExam": true,
+    "hasInternetAccess": false,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "20744ea8-6054-484a-b0d3-77504347834d",
+    "lectureName": "openSuse 15.4 qemu",
+    "description": "openSuse 15.4 x86_64 Qemu\nNur zu Testzwecken!",
+    "imageVersionId": "f24bb2ad-11ec-4f14-a166-e6780efbd335",
+    "imageBaseId": "01d1b509-05a5-43b7-bb46-3c5b375d0f9d",
+    "isEnabled": false,
+    "startTime": 1677106800,
+    "endTime": 1721771940,
+    "lastUsed": 1719415483,
+    "useCount": 61,
+    "ownerId": "owner_anon_5",
+    "updaterId": "updater_anon_22",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "20ab7b33-4ea1-493d-8915-a2709ff8293f",
+    "lectureName": "250210_WiPro",
+    "description": "Klausur Wissenschaftliches Programmieren",
+    "imageVersionId": "c481693a-fc08-4096-a271-6d3df0257755",
+    "imageBaseId": "1b273427-01a9-45d1-8c75-e09f3fba8913",
+    "isEnabled": true,
+    "startTime": 1738623600,
+    "endTime": 1739228340,
+    "lastUsed": 0,
+    "useCount": 0,
+    "ownerId": "owner_anon_4",
+    "updaterId": "updater_anon_4",
+    "isExam": true,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "2138b731-5909-4580-858a-75d0d56864a1",
+    "lectureName": "openSuse_15.5_64bit_-_Standardvorlage_qemu",
+    "description": "openSuse 15.5 64bit:\nLibreOffice (openOffice), gimp, Latex mit lyx und texstudio usw.",
+    "imageVersionId": "ca7cc105-2cf5-46c5-85de-98a65387ab55",
+    "imageBaseId": "186d23e5-36e7-4029-9a6c-b6e2ea1c25e8",
+    "isEnabled": true,
+    "startTime": 1710111600,
+    "endTime": 1753999140,
+    "lastUsed": 1744633887,
+    "useCount": 83,
+    "ownerId": "owner_anon_2",
+    "updaterId": "updater_anon_2",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "218a2cd4-4aa4-455d-ac21-93ea762354da",
+    "lectureName": "Windows 10 Shortcut",
+    "description": "Windows 10 x64 inkl. Shortcut(Videobearbeitung)",
+    "imageVersionId": "cfc71fcc-53ee-4aa4-8831-be631266d2fb",
+    "imageBaseId": "80bc5f40-9407-4243-ad09-9bc0aa383223",
+    "isEnabled": true,
+    "startTime": 1671577200,
+    "endTime": 1753999140,
+    "lastUsed": 1739948277,
+    "useCount": 299,
+    "ownerId": "owner_anon_2",
+    "updaterId": "updater_anon_2",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "21ad6d40-6430-41a3-bdc3-aafe9fbd3107",
+    "lectureName": "Windows 10 - Bibliothek für Kunstgeschichte, Scanner-PC",
+    "description": "Speziell für den Scanner-PC in der Bibliothek der Kunstgeschichte im KG III.",
+    "imageVersionId": "81feeed1-18dd-4027-bbf4-c5fa0f741a68",
+    "imageBaseId": "bc649665-178f-4903-9cb8-14ff9135614b",
+    "isEnabled": true,
+    "startTime": 1652306400,
+    "endTime": 1751320740,
+    "lastUsed": 1741862492,
+    "useCount": 105,
+    "ownerId": "owner_anon_19",
+    "updaterId": "updater_anon_19",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "21dae0f4-e58a-4569-9092-f1cc413f03dc",
+    "lectureName": "240725_Public Sector Economics",
+    "description": "Wirtschafts- und Verhaltenswissenschaften. Klausur Public Sector Economics",
+    "imageVersionId": "9d8b1f7a-39b0-4c17-a24e-ebb92c56ddc0",
+    "imageBaseId": "550be3d8-b5cb-4718-8fe4-4ab9ecfec6cf",
+    "isEnabled": true,
+    "startTime": 1718920800,
+    "endTime": 1722031140,
+    "lastUsed": 1721900361,
+    "useCount": 36,
+    "ownerId": "owner_anon_23",
+    "updaterId": "updater_anon_23",
+    "isExam": true,
+    "hasInternetAccess": false,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "2256a7b0-0cf6-4dcc-a501-52e5a12f0ef8",
+    "lectureName": "250303_ESJ",
+    "description": "Economic of Social Justice",
+    "imageVersionId": "9d8b1f7a-39b0-4c17-a24e-ebb92c56ddc0",
+    "imageBaseId": "550be3d8-b5cb-4718-8fe4-4ab9ecfec6cf",
+    "isEnabled": true,
+    "startTime": 1740351600,
+    "endTime": 1741042740,
+    "lastUsed": 1740993481,
+    "useCount": 90,
+    "ownerId": "owner_anon_4",
+    "updaterId": "updater_anon_4",
+    "isExam": true,
+    "hasInternetAccess": false,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "235a9b7d-8eee-436b-9528-ca1dc6ad6789",
+    "lectureName": "debian_komptest",
+    "description": "Nur zum testen\n",
+    "imageVersionId": "447852d7-fe39-4a52-a89c-f519ece179e8",
+    "imageBaseId": "cedd2d97-d9a4-4fba-ad87-40f7f4c09660",
+    "isEnabled": true,
+    "startTime": 1743116400,
+    "endTime": 1743202740,
+    "lastUsed": 1743172608,
+    "useCount": 1,
+    "ownerId": "owner_anon_5",
+    "updaterId": "updater_anon_5",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "23c71695-9153-48ab-8f1a-a7fce324ea93",
+    "lectureName": "Trixie KDE instabil",
+    "description": "Vorsicht, instabil!",
+    "imageVersionId": "969b6a6e-b537-43bc-9188-be30244bd75b",
+    "imageBaseId": "2af8062f-2965-4fc5-8a6a-0eb958d00343",
+    "isEnabled": true,
+    "startTime": 1741561200,
+    "endTime": 1746050340,
+    "lastUsed": 1741621123,
+    "useCount": 2,
+    "ownerId": "owner_anon_5",
+    "updaterId": "updater_anon_5",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "2417a688-b32b-4ef2-827e-373444f9e377",
+    "lectureName": "aaron cow test",
+    "description": "Meine Veranstaltung zum Testen des COW-Features",
+    "imageVersionId": "6669ad84-b9d8-4733-b68b-036dd3e3e43b",
+    "imageBaseId": "3a55dcc8-0362-45dd-b843-9b2f26c365a8",
+    "isEnabled": true,
+    "startTime": 1716242400,
+    "endTime": 1734821940,
+    "lastUsed": 1732294703,
+    "useCount": 9,
+    "ownerId": "owner_anon_24",
+    "updaterId": "updater_anon_24",
+    "isExam": false,
+    "hasInternetAccess": false,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "26f5e204-08e4-48c6-847f-475ad40b4525",
+    "lectureName": "Prüfungstest",
+    "description": "Nur ein test",
+    "imageVersionId": "edc43197-b16c-4016-84bd-2bd6f60b645c",
+    "imageBaseId": "d3b981d8-56a0-496a-8aca-dc4c1b44ca35",
+    "isEnabled": true,
+    "startTime": 1744581600,
+    "endTime": 1744667940,
+    "lastUsed": 1744636539,
+    "useCount": 24,
+    "ownerId": "owner_anon_5",
+    "updaterId": "updater_anon_5",
+    "isExam": true,
+    "hasInternetAccess": false,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": false
+  },
+  {
+    "lectureId": "28214890-9148-4010-b3ed-74791cf3549f",
+    "lectureName": "240808_Bioinformatik",
+    "description": "Klausur Bioinformatik und Molekulare Modellierung",
+    "imageVersionId": "9d8b1f7a-39b0-4c17-a24e-ebb92c56ddc0",
+    "imageBaseId": "550be3d8-b5cb-4718-8fe4-4ab9ecfec6cf",
+    "isEnabled": true,
+    "startTime": 1722981600,
+    "endTime": 1723240740,
+    "lastUsed": 1723105961,
+    "useCount": 63,
+    "ownerId": "owner_anon_4",
+    "updaterId": "updater_anon_4",
+    "isExam": true,
+    "hasInternetAccess": false,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "2b1b60d4-9868-441b-be7c-6d872e170692",
+    "lectureName": "Stadtklima Urban Morphometric Analysis",
+    "description": "Win 10 mit Python, QGiS und Jupyter Notebook",
+    "imageVersionId": "e72935e2-557a-4dfb-90a1-9d2e8514fd6e",
+    "imageBaseId": "0f0b0d51-dc81-4455-8fb2-07f5a795d91f",
+    "isEnabled": true,
+    "startTime": 1728856800,
+    "endTime": 1735685940,
+    "lastUsed": 1733750343,
+    "useCount": 27,
+    "ownerId": "owner_anon_2",
+    "updaterId": "updater_anon_2",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "2c205b78-9238-456d-bcc9-ffef7ea6bd5c",
+    "lectureName": "Windows10_-_Standardvorlage_qemu",
+    "description": "Windows 10 (64 Bit) QEMU\n\nWindows 10 Betriebssystem mit einer Software-Grundausstattung. Dieses Betriebssystem wird vom Rechenzentrum bereitgestellt und kann von allen Studierenden / Lehrbeautragten mit gültigem RZ-Account genutzt werden.\n\nInstallierte Software:\n -> 7-Zip\n -> Adobe Acrobat Reader\n -> CDBurnerXP\n -> GIMP 2\n -> Internet Explorer\n -> LibreOffice\n -> Microsoft Office 2016 (Word, Excel)\n -> Mozilla Firefox\n -> Notepad++\n -> Paint.net\n -> PDFCreator\n -> PuTTY\n -> VLC player",
+    "imageVersionId": "ee1d2649-c3d4-4ad2-aa4d-3972e2f64d0c",
+    "imageBaseId": "21dbe3ac-cadd-4e3b-9d89-af8ff9c73e19",
+    "isEnabled": true,
+    "startTime": 1710198000,
+    "endTime": 1753999140,
+    "lastUsed": 1744479935,
+    "useCount": 201,
+    "ownerId": "owner_anon_2",
+    "updaterId": "updater_anon_2",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "2c976aa9-b7c4-4df2-933d-f950302ae041",
+    "lectureName": "Windows 10 GLA",
+    "description": "Windows 10 (x64 22h2) Standardvorlage\nMit GLA (Gap Light Analyzer)",
+    "imageVersionId": "0bc3c8c8-12b4-43cd-8b79-d3c0f71a1529",
+    "imageBaseId": "73b00a4b-ac09-43ed-adf2-1dd8f1805d3f",
+    "isEnabled": true,
+    "startTime": 1730070000,
+    "endTime": 1749247140,
+    "lastUsed": 1743168198,
+    "useCount": 54,
+    "ownerId": "owner_anon_25",
+    "updaterId": "updater_anon_5",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "2cb6a0b5-2e56-4406-8a5d-d56597c207c2",
+    "lectureName": "DH Lab - Qemu Win10",
+    "description": "DH Lab - Qemu Win10",
+    "imageVersionId": "25714702-64e0-4798-a559-388a78ab557c",
+    "imageBaseId": "17543d94-a407-43bf-90f1-655e89c9d262",
+    "isEnabled": true,
+    "startTime": 1731625200,
+    "endTime": 1746136740,
+    "lastUsed": 1744113044,
+    "useCount": 102,
+    "ownerId": "owner_anon_3",
+    "updaterId": "updater_anon_3",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "2de4baa5-b5d1-4596-9ed0-c4924fe77a96",
+    "lectureName": "250120_Demoklausur",
+    "description": "Klausr JF Studium und Lehre",
+    "imageVersionId": "fa9a4639-3caa-4c63-bfb2-cb95fbdd6023",
+    "imageBaseId": "440d0513-7c94-4dcd-a045-01207661346a",
+    "isEnabled": true,
+    "startTime": 1736809200,
+    "endTime": 1746050340,
+    "lastUsed": 1742915432,
+    "useCount": 48,
+    "ownerId": "owner_anon_23",
+    "updaterId": "updater_anon_4",
+    "isExam": true,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "30d7b1a1-74e6-4094-9899-adf5f428780c",
+    "lectureName": "Windows10 ZfS Affinity + Canva, Version 2",
+    "description": "Windows 10 (64 Bit) mit Affinity, Foxit und Canva \n\nDank der finanziellen Unterstützung durch das Studierendenvorschlagsbudget steht dieser Kursraum allen Studierenden der Universität Freiburg zur Verfügung.  \n\nHervorzuheben ist hier, die Möglichkeit, professionelle Software im Bereich Bild- und Grafikbearbeitung, aber auch PDF Bearbeitung nutzen zu können. \n\nDie Affinity Suite in der neuen Version 2 ermöglicht Photos, Grafiken, Poster, Broschüren, professionell zu erstellen oder zu bearbeiten. \n\nMit Foxit Editor Pro kann man effektiv und professionell PDF Dokumente erstellen, bearbeiten oder in andere Formate (bspw. docx) exportieren. Das OCR funktioniert sehr gut und schnell. Ebenfalls lassen sich schnell Formulare erstellen.\n\nInstallierte Software:\n -> 7-Zip\n -> GIMP 2\n -> Edge\n -> LibreOffice\n -> Microsoft Office 2019\n -> Mozilla Firefox\n -> Notepad++\n -> Affinity\n -> Foxit PDF Editor\n -> Canva\n -> Chrome\n -> FileZilla\n -> VLC Media Player",
+    "imageVersionId": "f04960c2-e9de-40e4-9614-4220c22b5f40",
+    "imageBaseId": "4bf33dfa-adcd-4f42-b57b-ee1068b5f687",
+    "isEnabled": true,
+    "startTime": 1715896800,
+    "endTime": 1753999140,
+    "lastUsed": 1744654635,
+    "useCount": 371,
+    "ownerId": "owner_anon_2",
+    "updaterId": "updater_anon_2",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "311fad2b-ae73-4d4d-bc2f-bbe4b51de35f",
+    "lectureName": "Windows 10 - Standard-Image",
+    "description": "Windows 10 (64 Bit)\n\nWindows 10 Betriebssystem mit einer Software-Grundausstattung. Dieses Betriebssystem wird vom Rechenzentrum bereitgestellt und kann von allen Studierenden / Lehrbeautragten mit gültigem RZ-Account genutzt werden.\n\nInstallierte Software:\n -> 7-Zip\n -> Adobe Acrobat Reader\n -> CDBurnerXP\n -> GIMP 2\n -> Internet Explorer\n -> LibreOffice\n -> Microsoft Office 2016 (Word, Excel)\n -> Mozilla Firefox\n -> Notepad++\n -> Paint.net\n -> PDFCreator\n -> PuTTY\n -> VLC player",
+    "imageVersionId": "0b5f2373-a53b-4b70-9580-ec9d0c16a108",
+    "imageBaseId": "48bad7c4-daa6-4647-a540-400dec34bfd4",
+    "isEnabled": true,
+    "startTime": 1469052000,
+    "endTime": 1753999140,
+    "lastUsed": 1744703709,
+    "useCount": 156979,
+    "ownerId": "owner_anon_2",
+    "updaterId": "updater_anon_2",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "32c43bcc-e67f-46d1-b041-e1323b0ee3ed",
+    "lectureName": "Windows 10 - Bibliothek für Pharmazie und Chemie mit Druckfunktion",
+    "description": "-> LibreOffice\n-> Zotero\n-> Juri-M\n-> Citavi\n-> Acrobat Reader\n-> CD Burner XP\n-> vlc-Player (Wiedergabe von Mediendateien)\n-> GIMP 2 (Bildbearbeitungsprogramm)\n-> Paint (einfaches Bildbearbeitungsprogramm)\n-> Notepad++ (einfacher Editor)",
+    "imageVersionId": "f0c19be6-d474-4fcd-8e29-697248b84e84",
+    "imageBaseId": "751f98d5-6b28-40c3-9c23-9ee6ee2af3fa",
+    "isEnabled": true,
+    "startTime": 1594764000,
+    "endTime": 1757887140,
+    "lastUsed": 1744622243,
+    "useCount": 1242,
+    "ownerId": "owner_anon_19",
+    "updaterId": "updater_anon_19",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "334f4afc-e2b6-4456-9202-fc97dec63c7f",
+    "lectureName": "250220_Radiologie",
+    "description": "Klausur Radiologie",
+    "imageVersionId": "9d8b1f7a-39b0-4c17-a24e-ebb92c56ddc0",
+    "imageBaseId": "550be3d8-b5cb-4718-8fe4-4ab9ecfec6cf",
+    "isEnabled": true,
+    "startTime": 1739833200,
+    "endTime": 1740092340,
+    "lastUsed": 1740041471,
+    "useCount": 446,
+    "ownerId": "owner_anon_4",
+    "updaterId": "updater_anon_4",
+    "isExam": true,
+    "hasInternetAccess": false,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "357113cf-5331-4e95-acd8-20e85e45228a",
+    "lectureName": "250211_ResourceEconomics",
+    "description": "Klausr Environmental and Resource Economics ",
+    "imageVersionId": "9d8b1f7a-39b0-4c17-a24e-ebb92c56ddc0",
+    "imageBaseId": "550be3d8-b5cb-4718-8fe4-4ab9ecfec6cf",
+    "isEnabled": true,
+    "startTime": 1738796400,
+    "endTime": 1739314740,
+    "lastUsed": 1739263915,
+    "useCount": 42,
+    "ownerId": "owner_anon_4",
+    "updaterId": "updater_anon_4",
+    "isExam": true,
+    "hasInternetAccess": false,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "35d650b8-a52a-4867-a6de-3d7c4917d4c5",
+    "lectureName": "DH Lab - Qemu Win11",
+    "description": "DH Lab - Qemu Win11",
+    "imageVersionId": "44c8ff48-b73f-47f2-a8c0-05f0ffc01f21",
+    "imageBaseId": "b3b91a48-d7c4-4214-b4fc-6d3cae360f86",
+    "isEnabled": true,
+    "startTime": 1741302000,
+    "endTime": 1746655140,
+    "lastUsed": 1744379416,
+    "useCount": 60,
+    "ownerId": "owner_anon_3",
+    "updaterId": "updater_anon_3",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "3717dba9-c469-4243-a713-0fa6505c417b",
+    "lectureName": "Exam_Prüfung_Dermatologie",
+    "description": "Prüfung Dermatologie Medizinische Fakultät / Klinik für Dermatologie",
+    "imageVersionId": "9d8b1f7a-39b0-4c17-a24e-ebb92c56ddc0",
+    "imageBaseId": "550be3d8-b5cb-4718-8fe4-4ab9ecfec6cf",
+    "isEnabled": true,
+    "startTime": 1721944800,
+    "endTime": 1722376740,
+    "lastUsed": 1722349530,
+    "useCount": 213,
+    "ownerId": "owner_anon_5",
+    "updaterId": "updater_anon_23",
+    "isExam": true,
+    "hasInternetAccess": false,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": false
+  },
+  {
+    "lectureId": "38184a68-514d-44a5-a84d-eb517a727e27",
+    "lectureName": "Physio-Praktikum_Hämodynamik",
+    "description": "Übungsteil des Praktikums Physiologie für Human- und Zahnmediziner\nSimulationsprogramm Cardiovascular Functions Lab (CFL.exe)",
+    "imageVersionId": "a98a1f01-945a-44c2-844b-a11bc854a2c5",
+    "imageBaseId": "73cc1bc8-84a7-41f9-93e2-b0ea74d80a40",
+    "isEnabled": true,
+    "startTime": 1728900000,
+    "endTime": 1731711540,
+    "lastUsed": 1731689272,
+    "useCount": 779,
+    "ownerId": "owner_anon_26",
+    "updaterId": "owner_anon_26",
+    "isExam": false,
+    "hasInternetAccess": false,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": false
+  },
+  {
+    "lectureId": "3887feb5-bdae-438e-b036-10a3832ee62e",
+    "lectureName": "UNR_EnvironmentalModellingDataScience_courses",
+    "description": "Tutorials and homework for Environmental Modelling and Data Science major (or anybody else in the CIP rooms);\nR, RStudio, Python, Jupyter, Git, VSCodium, QGIS",
+    "imageVersionId": "d8772c02-929f-487e-8096-f8d6cba0d532",
+    "imageBaseId": "f3ac7182-05d5-40fd-87f3-f483a5bd2527",
+    "isEnabled": true,
+    "startTime": 1697407200,
+    "endTime": 1747432740,
+    "lastUsed": 1744575531,
+    "useCount": 822,
+    "ownerId": "owner_anon_27",
+    "updaterId": "updater_anon_4",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "39a91e16-0c01-460e-893e-e561d5b3338c",
+    "lectureName": "Win2k",
+    "description": "HI",
+    "imageVersionId": "fb40ede5-da4c-4145-8da8-46a56c70bc9e",
+    "imageBaseId": "cf2a0951-51bf-412f-8c5d-75bc72893665",
+    "isEnabled": false,
+    "startTime": 1705359600,
+    "endTime": 1727560740,
+    "lastUsed": 1725893305,
+    "useCount": 7,
+    "ownerId": "owner_anon_22",
+    "updaterId": "owner_anon_22",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": false,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "3a00de5b-904e-4fc9-8b7f-e3b3a4c82a43",
+    "lectureName": "Windows 10 - Epson Scanner V370",
+    "description": "Windows 10 Standart mit Scanner V370",
+    "imageVersionId": "effb9116-02cc-4ba8-b9f6-ed15872dce1f",
+    "imageBaseId": "333c99b7-4ef3-4861-9899-b2684d657135",
+    "isEnabled": true,
+    "startTime": 1649023200,
+    "endTime": 1753999140,
+    "lastUsed": 1744208321,
+    "useCount": 295,
+    "ownerId": "owner_anon_2",
+    "updaterId": "owner_anon_2",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "3a48c38e-8e15-45a2-9780-56fbe9703902",
+    "lectureName": "Arcgis",
+    "description": "test",
+    "imageVersionId": "3b7ac0cb-8000-423b-9edc-150b7725ae90",
+    "imageBaseId": "e231528b-0424-4b4f-8af0-3c68455e0154",
+    "isEnabled": true,
+    "startTime": 1721080800,
+    "endTime": 1739746740,
+    "lastUsed": 1739266161,
+    "useCount": 25,
+    "ownerId": "owner_anon_28",
+    "updaterId": "owner_anon_28",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "3a95b4c0-bffe-4e41-9e09-c111c6375e60",
+    "lectureName": "Exam Foundations of Deep Learning",
+    "description": "Exam Foundations of Deep Learning",
+    "imageVersionId": "74027814-7488-4729-993b-c5fd7ce6e13f",
+    "imageBaseId": "cc687abd-519e-4b77-9938-0f2d1748d137",
+    "isEnabled": true,
+    "startTime": 1739867400,
+    "endTime": 1739880000,
+    "lastUsed": 1739876264,
+    "useCount": 1197,
+    "ownerId": "owner_anon_15",
+    "updaterId": "updater_anon_16",
+    "isExam": true,
+    "hasInternetAccess": false,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": false
+  },
+  {
+    "lectureId": "3b7486c6-0b41-413f-b360-c00170cb25b4",
+    "lectureName": "250306_FunctionalProgramming",
+    "description": "Klausur Functional Programming",
+    "imageVersionId": "6cd54e6a-42df-48f2-a55d-bb469439c473",
+    "imageBaseId": "3f8e8e70-da71-4ea9-bfd4-eb4ad7f03b4e",
+    "isEnabled": true,
+    "startTime": 1738537200,
+    "endTime": 1741301940,
+    "lastUsed": 1741273815,
+    "useCount": 119,
+    "ownerId": "owner_anon_4",
+    "updaterId": "updater_anon_4",
+    "isExam": true,
+    "hasInternetAccess": false,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "3bb43650-258d-4fec-9967-514496c8a4ff",
+    "lectureName": "UNR WWD SILVA",
+    "description": "SILVA Kurs CIP Pool Herderbau",
+    "imageVersionId": "2820241e-da63-42d7-9950-83483b34fc1f",
+    "imageBaseId": "e2dbb533-a64c-4061-ad36-3aa549fec64f",
+    "isEnabled": false,
+    "startTime": 1712790000,
+    "endTime": 1731970740,
+    "lastUsed": 1722495391,
+    "useCount": 363,
+    "ownerId": "owner_anon_29",
+    "updaterId": "owner_anon_29",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "3ceedec4-c52b-43a6-bffb-354bf179c7c4",
+    "lectureName": "250120_JourFixe",
+    "description": "Demo-VM",
+    "imageVersionId": "9d8b1f7a-39b0-4c17-a24e-ebb92c56ddc0",
+    "imageBaseId": "550be3d8-b5cb-4718-8fe4-4ab9ecfec6cf",
+    "isEnabled": true,
+    "startTime": 1737068400,
+    "endTime": 1743544740,
+    "lastUsed": 1742915704,
+    "useCount": 32,
+    "ownerId": "owner_anon_4",
+    "updaterId": "updater_anon_4",
+    "isExam": true,
+    "hasInternetAccess": false,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "3d8ef9d2-e823-43ea-915c-82c9119e3bfb",
+    "lectureName": "Arcgis",
+    "description": "test ",
+    "imageVersionId": null,
+    "imageBaseId": null,
+    "isEnabled": false,
+    "startTime": 1720562400,
+    "endTime": 1739746800,
+    "lastUsed": 1721120910,
+    "useCount": 10,
+    "ownerId": "owner_anon_28",
+    "updaterId": "owner_anon_28",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": false,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "401ef014-ba1e-4400-bd2c-f32f2e07a18f",
+    "lectureName": "CC Exam",
+    "description": "lecture for compiler construction exam (lehrstuhl programmiersprachen, institut für informatik)",
+    "imageVersionId": "6cd54e6a-42df-48f2-a55d-bb469439c473",
+    "imageBaseId": "3f8e8e70-da71-4ea9-bfd4-eb4ad7f03b4e",
+    "isEnabled": true,
+    "startTime": 1722463200,
+    "endTime": 1748815140,
+    "lastUsed": 1744045815,
+    "useCount": 184,
+    "ownerId": "owner_anon_30",
+    "updaterId": "owner_anon_30",
+    "isExam": false,
+    "hasInternetAccess": false,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": false
+  },
+  {
+    "lectureId": "402489f8-220d-49a8-a3b8-4c96492ef053",
+    "lectureName": "Copy of",
+    "description": "sdaf",
+    "imageVersionId": "ad40cd7d-2cbb-4763-8f27-438f688a7335",
+    "imageBaseId": "5de23280-79cb-4e5a-ad14-abfe77894eb8",
+    "isEnabled": true,
+    "startTime": 1715119200,
+    "endTime": 1720475940,
+    "lastUsed": 1717485859,
+    "useCount": 14,
+    "ownerId": "owner_anon_22",
+    "updaterId": "owner_anon_22",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "40433ce2-2a98-41f6-9c06-719da61b261d",
+    "lectureName": "241011_Flora&Fauna",
+    "description": "Klausur Flora&Fauna",
+    "imageVersionId": "9d8b1f7a-39b0-4c17-a24e-ebb92c56ddc0",
+    "imageBaseId": "550be3d8-b5cb-4718-8fe4-4ab9ecfec6cf",
+    "isEnabled": true,
+    "startTime": 1728252000,
+    "endTime": 1728770340,
+    "lastUsed": 1728637159,
+    "useCount": 435,
+    "ownerId": "owner_anon_4",
+    "updaterId": "owner_anon_4",
+    "isExam": true,
+    "hasInternetAccess": false,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "405f1c80-5ccd-4e45-92d1-98ce14a92fab",
+    "lectureName": "DH Lab - Qemu Ubuntu",
+    "description": "DH Lab - Qemu Ubuntu",
+    "imageVersionId": "95830a34-9031-4422-98e5-76cbc52cd487",
+    "imageBaseId": "bc7dcf19-cf5b-49a7-b455-5b0c73e6a65f",
+    "isEnabled": true,
+    "startTime": 1731020400,
+    "endTime": 1746136740,
+    "lastUsed": 1744201466,
+    "useCount": 37,
+    "ownerId": "owner_anon_3",
+    "updaterId": "owner_anon_3",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "406a103a-d0f7-472f-aaa8-1a4914bdf618",
+    "lectureName": "Rektorat_Präsentation",
+    "description": "Win 10 Std mit\nVLC, Zoom Workplace, OpenBoard etc.",
+    "imageVersionId": "bcc584ce-1163-41a1-a105-78d281533f56",
+    "imageBaseId": "95ce352a-001c-4bf3-b667-28ccdabae6fb",
+    "isEnabled": true,
+    "startTime": 1737500400,
+    "endTime": 1751320740,
+    "lastUsed": 1744687874,
+    "useCount": 35,
+    "ownerId": "owner_anon_5",
+    "updaterId": "owner_anon_5",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "40844ed8-6a9f-461c-9dae-62cbd1e527e8",
+    "lectureName": "Geographie Klima Ubuntu",
+    "description": "Klimadatenanalyse mit Python ",
+    "imageVersionId": "60d19424-fef5-49c1-b0bf-e2f0270f29de",
+    "imageBaseId": "a3c7e440-9f35-423e-8d65-0fae0c048210",
+    "isEnabled": true,
+    "startTime": 1699484400,
+    "endTime": 1753912740,
+    "lastUsed": 1743428956,
+    "useCount": 1343,
+    "ownerId": "owner_anon_31",
+    "updaterId": "owner_anon_20",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "409e2da2-6998-4474-9b26-58ac828a6863",
+    "lectureName": "240724 Sprachtest Anglistik",
+    "description": "Sprachtest Anglistik",
+    "imageVersionId": "9d8b1f7a-39b0-4c17-a24e-ebb92c56ddc0",
+    "imageBaseId": "550be3d8-b5cb-4718-8fe4-4ab9ecfec6cf",
+    "isEnabled": true,
+    "startTime": 1718661600,
+    "endTime": 1721944740,
+    "lastUsed": 1721829538,
+    "useCount": 176,
+    "ownerId": "owner_anon_23",
+    "updaterId": "owner_anon_23",
+    "isExam": true,
+    "hasInternetAccess": false,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "40dc7ea6-6922-41aa-ab00-561ed280aa62",
+    "lectureName": "Windows 10 - Wirtschaftswissenschaften Freiburg veraltet",
+    "description": "Windows 10 (64 bit)\n\nWirtschaftswissenschaften\n\nInstallierte Software:\n -> 7-ZIP\n -> Adobe Acrobat Reader\n -> CDBurnerXP\n -> GIMP 2\n -> IBM SPSS\n -> Java 8\n -> LibreOffice\n -> Microsoft Office 2013\n -> MiKTeX\n -> Mozilla Firefox\n -> Notepad++\n -> VirtualBox\n -> Paint.Net\n -> PDFCreator\n -> PuTTY\n -> R for Windows\n -> RStudio\n -> TeXstudio\n -> VLC player\n -> XAMPP",
+    "imageVersionId": null,
+    "imageBaseId": null,
+    "isEnabled": false,
+    "startTime": 1537524000,
+    "endTime": 1730415540,
+    "lastUsed": 1730308780,
+    "useCount": 24901,
+    "ownerId": "owner_anon_12",
+    "updaterId": "owner_anon_12",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": false,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "4376803a-07a5-438d-81b5-0ba7fd3ca7aa",
+    "lectureName": "Praktische Übung Machine Learning SS 2025",
+    "description": "This course introduces the foundational concepts and practical skills necessary for understanding and implementing machine learning models, with a particular focus on deep learning and neural networks.",
+    "imageVersionId": "d4c3858c-99c1-41e0-b3d6-c99da47b394b",
+    "imageBaseId": "0fb9b2d8-d790-4ab9-8276-73b942112938",
+    "isEnabled": true,
+    "startTime": 1739487600,
+    "endTime": 1758491940,
+    "lastUsed": 1743698126,
+    "useCount": 11,
+    "ownerId": "owner_anon_32",
+    "updaterId": "owner_anon_5",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "44a0cb28-fb3b-4c29-abe0-4d32c276814f",
+    "lectureName": "Simulationstechniken",
+    "description": "Simulationstechniken der Studiengänge MST und ESE",
+    "imageVersionId": "2f9b7e9d-b103-4144-b241-55bf6ea44621",
+    "imageBaseId": "58f4cc7a-3150-45dd-8409-b21483337f4e",
+    "isEnabled": true,
+    "startTime": 1731279600,
+    "endTime": 1731365940,
+    "lastUsed": 1731330851,
+    "useCount": 1,
+    "ownerId": "owner_anon_33",
+    "updaterId": "owner_anon_33",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": true,
+      "admin": true
+    },
+    "userPermissions": {
+      "edit": true,
+      "admin": true
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "47d5361a-bd02-41fe-935b-ea0055014f96",
+    "lectureName": "240710_Speaking_English",
+    "description": "Prüfung \"Speaking English\" ",
+    "imageVersionId": "89e6b445-cf73-436d-a5fa-75bf70377c73",
+    "imageBaseId": "851c2fbf-e06f-4bb3-9b28-700e93782b12",
+    "isEnabled": true,
+    "startTime": 1720389600,
+    "endTime": 1720648740,
+    "lastUsed": 1720605266,
+    "useCount": 190,
+    "ownerId": "owner_anon_34",
+    "updaterId": "owner_anon_5",
+    "isExam": true,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "4806bcf7-ccba-4051-98c2-cd1bbd6c46c3",
+    "lectureName": "VM_Test_Virtuelle_Maschine_Pharm_Bioinf",
+    "description": "VM, um die Klausurbedingungen zu testen",
+    "imageVersionId": "3ae760d9-f9b8-4a64-9a09-d24907aa9cdc",
+    "imageBaseId": "88f8ed75-0819-41eb-9d5a-f0e7d684bba7",
+    "isEnabled": true,
+    "startTime": 1738105200,
+    "endTime": 1743202740,
+    "lastUsed": 1741978162,
+    "useCount": 139,
+    "ownerId": "owner_anon_6",
+    "updaterId": "owner_anon_6",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "49f56651-658a-4507-a83b-d950f42208d1",
+    "lectureName": "MedTechnik_Hörsaal_KGI",
+    "description": "Prototyp Hörsaal",
+    "imageVersionId": "477e2489-2084-4263-9ff1-6dda00813010",
+    "imageBaseId": "1cdcf2e3-2d7c-4262-a371-67faad1d13b6",
+    "isEnabled": true,
+    "startTime": 1716847200,
+    "endTime": 1736031540,
+    "lastUsed": 1726054664,
+    "useCount": 4,
+    "ownerId": "owner_anon_5",
+    "updaterId": "owner_anon_5",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "4a2b1391-3a2b-46a2-856b-230ada960a30",
+    "lectureName": "250214_EPPC",
+    "description": "Klausur \"Economic Policy and Public Choice\"",
+    "imageVersionId": "9d8b1f7a-39b0-4c17-a24e-ebb92c56ddc0",
+    "imageBaseId": "550be3d8-b5cb-4718-8fe4-4ab9ecfec6cf",
+    "isEnabled": true,
+    "startTime": 1739055600,
+    "endTime": 1739573940,
+    "lastUsed": 1739537174,
+    "useCount": 143,
+    "ownerId": "owner_anon_4",
+    "updaterId": "owner_anon_4",
+    "isExam": true,
+    "hasInternetAccess": false,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "4d40871c-c43b-4a81-a3e7-a3440d54b8ba",
+    "lectureName": "Biom_Master_2023",
+    "description": "Bitte ergänzen!",
+    "imageVersionId": null,
+    "imageBaseId": null,
+    "isEnabled": false,
+    "startTime": 1697320800,
+    "endTime": 1727733540,
+    "lastUsed": 1726836899,
+    "useCount": 138,
+    "ownerId": "owner_anon_35",
+    "updaterId": "owner_anon_5",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": false,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "4e732daf-7962-4a27-a4fd-450414e429d8",
+    "lectureName": "Mineral Physics Exercise",
+    "description": "Abinit",
+    "imageVersionId": "166a1310-993d-41ba-8c73-52fb6d8b8622",
+    "imageBaseId": "e469a46d-9e05-4130-999d-18b888e2a47e",
+    "isEnabled": true,
+    "startTime": 1722204000,
+    "endTime": 1748210340,
+    "lastUsed": 1737805526,
+    "useCount": 13,
+    "ownerId": "owner_anon_36",
+    "updaterId": "owner_anon_36",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "4f2c1d0d-f0ff-4c0b-a930-a9fbb528df6b",
+    "lectureName": "Windows10_-_Standardvorlage_qemu_cow",
+    "description": "Copy-on-write test",
+    "imageVersionId": null,
+    "imageBaseId": null,
+    "isEnabled": false,
+    "startTime": 1716847200,
+    "endTime": 1719611940,
+    "lastUsed": 1716879860,
+    "useCount": 1,
+    "ownerId": "owner_anon_11",
+    "updaterId": "owner_anon_11",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": false,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "50f29318-dee3-4b9c-910d-a347adc16831",
+    "lectureName": "roan_qemu_test",
+    "description": "Nur zum testen!",
+    "imageVersionId": "87e72800-4979-4255-a6c7-09e5aabafa34",
+    "imageBaseId": "a44771fc-127c-434e-825c-7104a4b739a2",
+    "isEnabled": false,
+    "startTime": 1719439200,
+    "endTime": 1719525540,
+    "lastUsed": 1719493919,
+    "useCount": 1,
+    "ownerId": "owner_anon_5",
+    "updaterId": "owner_anon_5",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": false,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "51b5dc0f-c084-4e4f-84c9-de61b76b46e9",
+    "lectureName": "openSuse_15.4_64bit_-_Standardvorlage",
+    "description": "openSuse 15.4 64bit\nLibreoffice/OpenOffice, Gimp usw.",
+    "imageVersionId": "53f36088-5a43-4725-a489-35a57c7ec044",
+    "imageBaseId": "4322aa0f-186d-406a-bf73-c816b0e68408",
+    "isEnabled": false,
+    "startTime": 1662674400,
+    "endTime": 1722981540,
+    "lastUsed": 1722421056,
+    "useCount": 662,
+    "ownerId": "owner_anon_2",
+    "updaterId": "owner_anon_11",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": false,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "52209f0c-723e-42a5-b7da-285213f64025",
+    "lectureName": "m+v CAD-Test (QEMU)",
+    "description": "CAD-Test in QEMU-Umgebung\n+ Nvidia-Treiber",
+    "imageVersionId": "cb13364e-70fa-49e8-85ee-ae13c6801307",
+    "imageBaseId": "12228714-c747-4e8f-8a9e-ef40bf2caa5f",
+    "isEnabled": true,
+    "startTime": 1682373600,
+    "endTime": 1759269540,
+    "lastUsed": 1741282563,
+    "useCount": 100,
+    "ownerId": "owner_anon_37",
+    "updaterId": "owner_anon_37",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "52c49799-ae74-4a34-8df8-6454e897cb16",
+    "lectureName": "ZFS Textverarbeitung Office kompakt",
+    "description": "BOK Kurs für das ZFS, Schwerpunkt MS Office",
+    "imageVersionId": "93c937be-7af4-494d-a9a6-618a38f86eff",
+    "imageBaseId": "44e02300-8672-40d6-804f-eea0ec809585",
+    "isEnabled": true,
+    "startTime": 1719871200,
+    "endTime": 1745967540,
+    "lastUsed": 1744101256,
+    "useCount": 224,
+    "ownerId": "owner_anon_38",
+    "updaterId": "owner_anon_38",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "53075310-278d-4f2b-8b5e-a3769ded3395",
+    "lectureName": "250210_Organisationspsychologie ",
+    "description": "Klausur Arbeits- und Organisationspsychologie ",
+    "imageVersionId": "9d8b1f7a-39b0-4c17-a24e-ebb92c56ddc0",
+    "imageBaseId": "550be3d8-b5cb-4718-8fe4-4ab9ecfec6cf",
+    "isEnabled": true,
+    "startTime": 1738018800,
+    "endTime": 1746482340,
+    "lastUsed": 1739185579,
+    "useCount": 161,
+    "ownerId": "owner_anon_4",
+    "updaterId": "owner_anon_4",
+    "isExam": true,
+    "hasInternetAccess": false,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "53430b57-79d1-4503-90ad-54157db0ccb8",
+    "lectureName": "Angewandte Finite Elemente",
+    "description": "Ansys 2024 für Angewandte Finite Elemente",
+    "imageVersionId": "5278840b-3465-4be8-afa8-272bd91f14c3",
+    "imageBaseId": "7d6b9112-a4e8-496e-8ce9-69146d49304d",
+    "isEnabled": true,
+    "startTime": 1714600800,
+    "endTime": 1727819940,
+    "lastUsed": 1721983406,
+    "useCount": 133,
+    "ownerId": "owner_anon_39",
+    "updaterId": "owner_anon_39",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "5384525c-809c-48c2-957b-b7e9e92cad00",
+    "lectureName": "RZ Scanner Druckraum UG Win",
+    "description": "Win10 64bit +Scansoftware Epson G30000",
+    "imageVersionId": null,
+    "imageBaseId": null,
+    "isEnabled": false,
+    "startTime": 1700607600,
+    "endTime": 1719093540,
+    "lastUsed": 1700661489,
+    "useCount": 2,
+    "ownerId": "owner_anon_5",
+    "updaterId": "owner_anon_5",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": false,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "53a31172-808d-4034-bfb0-07990425a6c7",
+    "lectureName": "EDV Kurs",
+    "description": "Neue VM erstellt im April 2024,\nenthält alle Programme, die im EDV-Kurs benötigt werden (aktuell fehlende werden rechtzeitig hinzugefügt)\n",
+    "imageVersionId": "4cecda83-bef4-4a4c-9151-51185ef743b4",
+    "imageBaseId": "bd5bd583-199b-472d-b08f-886f928f6420",
+    "isEnabled": true,
+    "startTime": 1714082400,
+    "endTime": 1748296740,
+    "lastUsed": 1744630613,
+    "useCount": 360,
+    "ownerId": "owner_anon_36",
+    "updaterId": "owner_anon_36",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "54377b7a-1967-4524-af7a-bb0ea5c96fca",
+    "lectureName": "Master_Geology_GIS_RS",
+    "description": "Used for GIS and Remote Sensing\n\ncontains:\nArcmap 10.8.2\nQgis 3.34.12\nPetex MOVE 2022\nESA Snap 11.0.0\nCloud Compare 2.13.2\nGoogle Earth Pro 7.3.6.9796\nMetashape 2.1.3\nStereonet v. 11",
+    "imageVersionId": "d959a847-6e58-4701-8310-0328f861a2ae",
+    "imageBaseId": "9b647622-0cb4-4d55-9e7f-a260b1b6159b",
+    "isEnabled": true,
+    "startTime": 1709247600,
+    "endTime": 1748210340,
+    "lastUsed": 1743429988,
+    "useCount": 364,
+    "ownerId": "owner_anon_36",
+    "updaterId": "owner_anon_36",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "55532a4c-3448-4cb7-afdb-ca7fb7518d45",
+    "lectureName": "Windows 11 + NT4.0",
+    "description": "lol",
+    "imageVersionId": "518731dd-89cb-4660-b40b-14ef7e8cb570",
+    "imageBaseId": "bbfe62ee-9a44-47af-a0a3-038ca10aa94c",
+    "isEnabled": true,
+    "startTime": 1715810400,
+    "endTime": 1740178740,
+    "lastUsed": 1740141248,
+    "useCount": 24,
+    "ownerId": "owner_anon_22",
+    "updaterId": "owner_anon_11",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "55b4fffe-0d83-4166-ab59-3a9c8945d381",
+    "lectureName": "Pruefung DGL - E-KlausurX",
+    "description": "E-Klausur zur Veranstaltung Differentialgleichungen am Montag 5.8.24 von 0730h-1330h",
+    "imageVersionId": "6e5e31b2-9ca0-4fe0-bc18-92d08569f5ad",
+    "imageBaseId": "3bc8aa82-4844-4784-893d-c7f7cfc74e18",
+    "isEnabled": false,
+    "startTime": 1722549600,
+    "endTime": 1743458340,
+    "lastUsed": 1739378428,
+    "useCount": 182,
+    "ownerId": "owner_anon_8",
+    "updaterId": "owner_anon_8",
+    "isExam": false,
+    "hasInternetAccess": false,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": false
+  },
+  {
+    "lectureId": "565e2416-10e6-458a-bd62-65ce8c8f2d96",
+    "lectureName": "240724_WrittenCompetence",
+    "description": "Klausur Written Competence",
+    "imageVersionId": "fa9a4639-3caa-4c63-bfb2-cb95fbdd6023",
+    "imageBaseId": "440d0513-7c94-4dcd-a045-01207661346a",
+    "isEnabled": true,
+    "startTime": 1715032800,
+    "endTime": 1721944740,
+    "lastUsed": 1721820653,
+    "useCount": 65,
+    "ownerId": "owner_anon_4",
+    "updaterId": "owner_anon_5",
+    "isExam": true,
+    "hasInternetAccess": false,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "5769c6c6-046c-4f11-97e0-d3dec8894871",
+    "lectureName": "250207_Genetik",
+    "description": "Genetik-Klausur",
+    "imageVersionId": "9d8b1f7a-39b0-4c17-a24e-ebb92c56ddc0",
+    "imageBaseId": "550be3d8-b5cb-4718-8fe4-4ab9ecfec6cf",
+    "isEnabled": true,
+    "startTime": 1738623600,
+    "endTime": 1744408740,
+    "lastUsed": 1738924581,
+    "useCount": 209,
+    "ownerId": "owner_anon_4",
+    "updaterId": "owner_anon_4",
+    "isExam": true,
+    "hasInternetAccess": false,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "5851e461-68e4-4966-8d2b-ca774bb19ec3",
+    "lectureName": "Firewall-Test Linux",
+    "description": "Nur heute!",
+    "imageVersionId": "f7a620f9-0a13-48ca-8603-558f9f7346b4",
+    "imageBaseId": "44a6db1f-fa72-49d0-8bb6-ca6d9fd31583",
+    "isEnabled": true,
+    "startTime": 1721772000,
+    "endTime": 1740437940,
+    "lastUsed": 1739807074,
+    "useCount": 36,
+    "ownerId": "owner_anon_5",
+    "updaterId": "owner_anon_22",
+    "isExam": false,
+    "hasInternetAccess": false,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "5877852a-0324-4451-a2fd-7320eac1fa95",
+    "lectureName": "240429_UMB_Resit",
+    "description": "Nachklausur Umweltmikrobiologie",
+    "imageVersionId": "9d8b1f7a-39b0-4c17-a24e-ebb92c56ddc0",
+    "imageBaseId": "550be3d8-b5cb-4718-8fe4-4ab9ecfec6cf",
+    "isEnabled": true,
+    "startTime": 1713823200,
+    "endTime": 1714514340,
+    "lastUsed": 1714377133,
+    "useCount": 17,
+    "ownerId": "owner_anon_4",
+    "updaterId": "owner_anon_4",
+    "isExam": true,
+    "hasInternetAccess": false,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "59650696-e84d-4cfe-8959-be7a078e8317",
+    "lectureName": "00_Jupyter-Test",
+    "description": "TestVA",
+    "imageVersionId": "c481693a-fc08-4096-a271-6d3df0257755",
+    "imageBaseId": "1b273427-01a9-45d1-8c75-e09f3fba8913",
+    "isEnabled": true,
+    "startTime": 1738882800,
+    "endTime": 1740783540,
+    "lastUsed": 1740740140,
+    "useCount": 58,
+    "ownerId": "owner_anon_4",
+    "updaterId": "owner_anon_4",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "596a50c2-2080-45c5-88c3-a4bd27070553",
+    "lectureName": "Physio-Praktikum_Skelettmuskulatur",
+    "description": "Übungsteil des Praktikums Physiologie (HM/ZM)\nSimulationsprogramm SimMuscle (Nerv-Muskel-Präparat vom Frosch)",
+    "imageVersionId": "0ddbb6b8-03ca-420d-8272-bf2a3430a3af",
+    "imageBaseId": "058aad10-aa7c-4be4-8261-78083d6f3f22",
+    "isEnabled": true,
+    "startTime": 1743976800,
+    "endTime": 1752875940,
+    "lastUsed": 1744210183,
+    "useCount": 832,
+    "ownerId": "owner_anon_26",
+    "updaterId": "owner_anon_26",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": false
+  },
+  {
+    "lectureId": "5fe80c95-217c-4e86-9590-05193001bff6",
+    "lectureName": "Bioinformatik Chemie und Pharmazie (beta)",
+    "description": "Teach Open CADD und Lama 2 Modell",
+    "imageVersionId": "aa9d4ed6-914f-4bb7-9beb-7ab053f67e19",
+    "imageBaseId": "d8bfc1f0-3479-4ac5-bfd1-96f62d0132da",
+    "isEnabled": false,
+    "startTime": 1698184800,
+    "endTime": 1721944740,
+    "lastUsed": 1721676131,
+    "useCount": 1924,
+    "ownerId": "owner_anon_6",
+    "updaterId": "owner_anon_6",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": false,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "607b36ef-548d-47e7-b3c4-fb3fe19f495c",
+    "lectureName": "Bild- und PDF Bearbeitung mit Affinity und Foxit auf Windows 10 ",
+    "description": "Dank der finanziellen Unterstützung durch das Studierendenvorschlagsbudget steht dieser Kursraum allen Studierenden der Universität Freiburg zur Verfügung.  \n\nHervorzuheben ist hier, die Möglichkeit, professionelle Software im Bereich Bild- und Grafikbearbeitung, aber auch PDF Bearbeitung nutzen zu können. \n\nDie Affinity Suite in der neuen Version 2 ermöglicht Photos, Grafiken, Poster, Broschüren, professionell zu erstellen oder zu bearbeiten. \n\nMit Foxit Editor Pro kann man effektiv und professionell PDF Dokumente erstellen, bearbeiten oder in andere Formate (bspw. docx) exportieren. Das OCR funktioniert sehr gut und schnell. Ebenfalls lassen sich schnell Formulare erstellen.\n\nWenn Fragen zum Kursraum bestehen oder Sie Kritik oder Lob äußern möchten, kontaktieren Sie bitte lizenzen@rz.uni-freiburg.de. \n",
+    "imageVersionId": "a9a1fc56-8df8-446b-9754-238d71407165",
+    "imageBaseId": "1cf7edb1-c77d-4121-a32e-7ddf06e2ad39",
+    "isEnabled": true,
+    "startTime": 1674169200,
+    "endTime": 1751320740,
+    "lastUsed": 1744641824,
+    "useCount": 1663,
+    "ownerId": "owner_anon_40",
+    "updaterId": "owner_anon_40",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "60a1109f-cb19-4f86-86ab-a1663c040657",
+    "lectureName": "Written_Comp_test",
+    "description": "Zum Testen der ext. Ressourcen",
+    "imageVersionId": "fa9a4639-3caa-4c63-bfb2-cb95fbdd6023",
+    "imageBaseId": "440d0513-7c94-4dcd-a045-01207661346a",
+    "isEnabled": true,
+    "startTime": 1721599200,
+    "endTime": 1721858340,
+    "lastUsed": 1721815554,
+    "useCount": 20,
+    "ownerId": "owner_anon_23",
+    "updaterId": "owner_anon_5",
+    "isExam": false,
+    "hasInternetAccess": false,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "61590716-725c-4a84-9c5e-33e4b87ad49e",
+    "lectureName": "Windows 10 ZfS Affinity",
+    "description": "Windows 10(x64) mit Affinity\ngnumeric, LibreOffice 7.1, VLC Media Player, Affinity Designer, Publisher and Photo, Word, Access, PowerPoint, Excel, Firefox",
+    "imageVersionId": "59e46c63-26e5-4f54-850a-1e0794d06b71",
+    "imageBaseId": "c65ebc79-87d9-4636-8d14-3be84571cfc7",
+    "isEnabled": true,
+    "startTime": 1589929200,
+    "endTime": 1753999140,
+    "lastUsed": 1744104662,
+    "useCount": 2949,
+    "ownerId": "owner_anon_2",
+    "updaterId": "owner_anon_2",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "626ad6ce-3d4b-4e63-b0b3-baa214b3a470",
+    "lectureName": "250211_TwR",
+    "description": "Klausur \"Theorie wirtschaftspolitischer Reformen\"",
+    "imageVersionId": "9d8b1f7a-39b0-4c17-a24e-ebb92c56ddc0",
+    "imageBaseId": "550be3d8-b5cb-4718-8fe4-4ab9ecfec6cf",
+    "isEnabled": true,
+    "startTime": 1739055600,
+    "endTime": 1739314740,
+    "lastUsed": 1739284927,
+    "useCount": 41,
+    "ownerId": "owner_anon_4",
+    "updaterId": "owner_anon_4",
+    "isExam": true,
+    "hasInternetAccess": false,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "62ca18f5-76f6-4641-b778-d373bcf685cc",
+    "lectureName": "Geographie Klima",
+    "description": "Fakultät für Umwelt und Natürliche Ressourcen / Physische Geographie. Windows 10 Rechner mit CLIMADA",
+    "imageVersionId": "0687756e-a404-41ff-a4e1-466d78098293",
+    "imageBaseId": "a9bc4757-9df0-4115-8189-356dc4c6de12",
+    "isEnabled": true,
+    "startTime": 1684706400,
+    "endTime": 1745963940,
+    "lastUsed": 1740134732,
+    "useCount": 239,
+    "ownerId": "owner_anon_20",
+    "updaterId": "owner_anon_20",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "62ebca5b-cc01-4aa0-bb4f-240efea1716a",
+    "lectureName": "PVS-Prüfungstests_chr",
+    "description": "Nicht verwenden!",
+    "imageVersionId": "1d495959-d09e-4469-b168-228a4ae89d22",
+    "imageBaseId": "77e7aeab-394d-49b5-aa00-a0cf7f1611ca",
+    "isEnabled": true,
+    "startTime": 1720130400,
+    "endTime": 1720216740,
+    "lastUsed": 1720192764,
+    "useCount": 40,
+    "ownerId": "owner_anon_5",
+    "updaterId": "owner_anon_5",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "6380b239-61fc-4f71-aa32-04ead4d15ab1",
+    "lectureName": "240619_Biosphäre_Resit",
+    "description": "Biosphäre Nachklausur",
+    "imageVersionId": "9d8b1f7a-39b0-4c17-a24e-ebb92c56ddc0",
+    "imageBaseId": "550be3d8-b5cb-4718-8fe4-4ab9ecfec6cf",
+    "isEnabled": true,
+    "startTime": 1717538400,
+    "endTime": 1718920740,
+    "lastUsed": 1718798575,
+    "useCount": 95,
+    "ownerId": "owner_anon_4",
+    "updaterId": "owner_anon_4",
+    "isExam": true,
+    "hasInternetAccess": false,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "639b4046-4b3e-46ac-8453-f242c276379d",
+    "lectureName": "TIA-Ernie",
+    "description": "-",
+    "imageVersionId": "2f499ee7-2d21-4772-8b2d-c1441ad6b226",
+    "imageBaseId": "ef556fdd-510b-4342-915f-16db06fabf4d",
+    "isEnabled": false,
+    "startTime": 1705532400,
+    "endTime": 1719784740,
+    "lastUsed": 1705598636,
+    "useCount": 17,
+    "ownerId": "owner_anon_37",
+    "updaterId": "owner_anon_37",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": false,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "646a9e93-c253-412e-8f31-c4c09de4dbee",
+    "lectureName": "Lehre Professur für Umweltmeteorologie SoSe2025",
+    "description": "VM für die Lehre an der Professur für Umweltmeteorologie im SoSe 2025.\n\nEnthält als Software u.a.:\n- Google Earth Pro\n- MATLAB\n- MS Office\n- QGIS\n- R und RStudio\n",
+    "imageVersionId": "0affba98-b36f-4a13-8b53-0180cc475773",
+    "imageBaseId": "1b48b131-e972-46ce-a45f-8d087e063ce0",
+    "isEnabled": true,
+    "startTime": 1740783600,
+    "endTime": 1759269540,
+    "lastUsed": 1744632638,
+    "useCount": 873,
+    "ownerId": "owner_anon_41",
+    "updaterId": "owner_anon_41",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "659c4469-fa99-4752-a45e-1d5753557a3b",
+    "lectureName": "RZ-Scanner Druckraum UG Linux",
+    "description": "openSuse 64bit + xsane-Scansoftware",
+    "imageVersionId": null,
+    "imageBaseId": null,
+    "isEnabled": false,
+    "startTime": 1700607600,
+    "endTime": 1716501540,
+    "lastUsed": 1710769712,
+    "useCount": 3,
+    "ownerId": "owner_anon_5",
+    "updaterId": "owner_anon_5",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": false,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "66b7e252-8729-4957-ad54-8e4d40b13b5f",
+    "lectureName": "2024 WIP Klausur",
+    "description": "VM for scientific programming exam (WiP)",
+    "imageVersionId": "c481693a-fc08-4096-a271-6d3df0257755",
+    "imageBaseId": "1b273427-01a9-45d1-8c75-e09f3fba8913",
+    "isEnabled": false,
+    "startTime": 1705964400,
+    "endTime": 1756591140,
+    "lastUsed": 1712224267,
+    "useCount": 364,
+    "ownerId": "owner_anon_21",
+    "updaterId": "owner_anon_4",
+    "isExam": true,
+    "hasInternetAccess": false,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": false
+  },
+  {
+    "lectureId": "69877c2e-4671-4ec2-9e02-cae8eaac4ddd",
+    "lectureName": "ImapSync für E-Mail Backup",
+    "description": "ImapSync on Ubuntu 22.04 LTS 64Bit",
+    "imageVersionId": "03de1573-dd7a-4a33-ac8d-22f394b5cd3a",
+    "imageBaseId": "3c2307a1-d47b-497d-938b-8af977a3897b",
+    "isEnabled": true,
+    "startTime": 1738710000,
+    "endTime": 1754690340,
+    "lastUsed": 1744701008,
+    "useCount": 269,
+    "ownerId": "owner_anon_11",
+    "updaterId": "owner_anon_11",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "6c55a3fb-00ee-48d9-83b8-3e064793d6d5",
+    "lectureName": "UNFN_BIOM_Windows10_STANDARD mit R 4",
+    "description": "BIOM_UNFN_windows 10_64_R; R version 4.2.1, RStudio version 2022.10.1 including some packages, Word 2016, Excel 2016, PowerPoint 2016, Citavi 6, Firefox, Google Chrome, LibreOffice 7.4.2,  Miktex, Texstudio, Jabref, Inkscape\n\nupdated default session for the statistic classes at UNR, updated from the previous \"UNR Statistik 4.1.2\".\n",
+    "imageVersionId": null,
+    "imageBaseId": null,
+    "isEnabled": false,
+    "startTime": 1667343600,
+    "endTime": 1716415140,
+    "lastUsed": 1697785167,
+    "useCount": 13,
+    "ownerId": "owner_anon_25",
+    "updaterId": "owner_anon_27",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": false,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "6dec7f9b-1624-442f-9fd9-48d0a83e7a2c",
+    "lectureName": "Praktische Übung zu Stochastik SS 2024",
+    "description": "Computerbasierte Umsetzung von Methoden und Resultaten aus den Vorlesungen Stochastik I+II mithilfe der statistischen Programmierumgebung R. Enthält RStudio.",
+    "imageVersionId": "a5532f71-56de-4e50-b5f2-9ec7cbd7aa76",
+    "imageBaseId": "57dd6e1a-e5cb-4eed-af7d-a30274de659f",
+    "isEnabled": true,
+    "startTime": 1711580400,
+    "endTime": 1742511540,
+    "lastUsed": 1742395989,
+    "useCount": 150,
+    "ownerId": "owner_anon_32",
+    "updaterId": "owner_anon_32",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "6f223f04-f29f-4c76-92ca-0fe65c305941",
+    "lectureName": "250214_Waldoekologie",
+    "description": "Klausur \"Waldökologie und Waldnaturschutz\"",
+    "imageVersionId": "9d8b1f7a-39b0-4c17-a24e-ebb92c56ddc0",
+    "imageBaseId": "550be3d8-b5cb-4718-8fe4-4ab9ecfec6cf",
+    "isEnabled": true,
+    "startTime": 1739055600,
+    "endTime": 1739573940,
+    "lastUsed": 1739518855,
+    "useCount": 117,
+    "ownerId": "owner_anon_4",
+    "updaterId": "owner_anon_4",
+    "isExam": true,
+    "hasInternetAccess": false,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "70d5192a-85a8-427a-baa5-40c0bbdc1852",
+    "lectureName": "250307_PSE",
+    "description": "Klausur \"Public Sector Economics\"",
+    "imageVersionId": "9d8b1f7a-39b0-4c17-a24e-ebb92c56ddc0",
+    "imageBaseId": "550be3d8-b5cb-4718-8fe4-4ab9ecfec6cf",
+    "isEnabled": true,
+    "startTime": 1740438000,
+    "endTime": 1741388340,
+    "lastUsed": 1741336590,
+    "useCount": 40,
+    "ownerId": "owner_anon_4",
+    "updaterId": "owner_anon_4",
+    "isExam": true,
+    "hasInternetAccess": false,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "71e77aee-b729-4ff0-97c5-30572f44cc95",
+    "lectureName": "240814_EPPC",
+    "description": "Retake Exam \"Economic Policy and Public Choice\" Ws23//24 - Prof. Neumärker",
+    "imageVersionId": "9d8b1f7a-39b0-4c17-a24e-ebb92c56ddc0",
+    "imageBaseId": "550be3d8-b5cb-4718-8fe4-4ab9ecfec6cf",
+    "isEnabled": true,
+    "startTime": 1723500000,
+    "endTime": 1723759140,
+    "lastUsed": 1723629107,
+    "useCount": 34,
+    "ownerId": "owner_anon_4",
+    "updaterId": "owner_anon_4",
+    "isExam": true,
+    "hasInternetAccess": false,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "721e3db5-7702-419d-8e2e-0f30b335ce6b",
+    "lectureName": "Biologie Computer Pools (Ubuntu)",
+    "description": "Standard Ubuntu 20 LTS\n- Anaconda3\n- PyMol",
+    "imageVersionId": "969b7906-d120-4c44-9919-21b2a1328b00",
+    "imageBaseId": "a22693c0-2d04-4eb6-a199-c4f559847d18",
+    "isEnabled": true,
+    "startTime": 1611183600,
+    "endTime": 1759269540,
+    "lastUsed": 1744274615,
+    "useCount": 98,
+    "ownerId": "owner_anon_17",
+    "updaterId": "owner_anon_18",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "744e4f95-ef05-4d07-9e5f-9eb3d0b33b5a",
+    "lectureName": "FANSTALTUNG VIRTUALBOX VBOX",
+    "description": "sdfgasdfg",
+    "imageVersionId": "4966b362-3132-4423-927e-006f4d5c8db5",
+    "imageBaseId": "ff52f361-24ef-4f1e-83db-b5122d196842",
+    "isEnabled": false,
+    "startTime": 1657663200,
+    "endTime": 1713477540,
+    "lastUsed": 1708697169,
+    "useCount": 15,
+    "ownerId": "owner_anon_22",
+    "updaterId": "owner_anon_22",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": false,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "7544e501-04ba-4646-a2b8-dc1b82da191e",
+    "lectureName": "oS15.4_CoW_Wesn",
+    "description": "Nicht verwenden!",
+    "imageVersionId": null,
+    "imageBaseId": null,
+    "isEnabled": false,
+    "startTime": 1716328800,
+    "endTime": 1719093540,
+    "lastUsed": 1716387831,
+    "useCount": 1,
+    "ownerId": "owner_anon_5",
+    "updaterId": "owner_anon_5",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": false,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "7a205678-2a21-4a12-b184-e177f679e689",
+    "lectureName": "240805_differentialgleichungen",
+    "description": "IMTEK-Simulation // Differentialgleichungen // Technische Fakultät",
+    "imageVersionId": "6e5e31b2-9ca0-4fe0-bc18-92d08569f5ad",
+    "imageBaseId": "3bc8aa82-4844-4784-893d-c7f7cfc74e18",
+    "isEnabled": true,
+    "startTime": 1722204000,
+    "endTime": 1722981540,
+    "lastUsed": 1722600765,
+    "useCount": 1,
+    "ownerId": "owner_anon_23",
+    "updaterId": "owner_anon_5",
+    "isExam": true,
+    "hasInternetAccess": false,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "7b686bb8-a314-4596-8813-05e73fec194c",
+    "lectureName": "_Windows10_UB_mit_Druckfunktion",
+    "description": "Windows 10 (64 Bit)\n\nWindows 10 Betriebssystem mit einer Software-Grundausstattung. Dieses Betriebsystem wird von der Universitätsbibliothek Freiburg bereitgestellt und kann von allen Studierenden/Lehrbeauftragten mit gültigem RZ-Account genutzt werden. \n\n!!In dieser VM ist das Drucken in der UB möglich.!!\n\nInstallierte Software:\n-> Firefox, Internet Explorer\n-> Microsoft Office 2013 (Word, PowerPoint, Excel)\n-> LibreOffice\n-> Zotero\n-> Juri-M\n-> Citavi\n-> Acrobat Reader\n-> CD Burner XP\n-> vlc-Player (Wiedergabe von Mediendateien)\n-> GIMP 2 (Bildbearbeitungsprogramm)\n-> Paint (einfaches Bildbearbeitungsprogramm)\n-> Notepad++ (einfacher Editor)\n",
+    "imageVersionId": "56aabc85-bc88-42b8-8b0c-381c01ac2116",
+    "imageBaseId": "07d93167-bf34-453b-ba3b-c8faff60f87e",
+    "isEnabled": true,
+    "startTime": 1640559600,
+    "endTime": 1752876000,
+    "lastUsed": 1744704609,
+    "useCount": 101660,
+    "ownerId": "owner_anon_42",
+    "updaterId": "owner_anon_19",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "7df6fb54-e83c-4de3-b30e-bf69d9a5f25e",
+    "lectureName": "Praktische Übung Stochastik SS 2025",
+    "description": "In der Praktischen Übung werden computerbasierte Methoden diskutiert, die das Verständnis des Stoffes der Vorlesungen Stochastik I+II vertiefen und weitere Anwendungsbeispiele aufzeigen sollen.Es werden computerbasierte Methoden diskutiert, die das Verständnis des Stoffes der Vorlesung vertiefen und weitere Anwendungsbeispiele aufzeigen sollen. Dazu wird die Programmiersprache Python verwendet.",
+    "imageVersionId": "d4c3858c-99c1-41e0-b3d6-c99da47b394b",
+    "imageBaseId": "0fb9b2d8-d790-4ab9-8276-73b942112938",
+    "isEnabled": true,
+    "startTime": 1739487600,
+    "endTime": 1758491940,
+    "lastUsed": 1744125258,
+    "useCount": 4,
+    "ownerId": "owner_anon_32",
+    "updaterId": "owner_anon_32",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "7eac884b-a4d6-4e39-b4f1-6e5c889492f1",
+    "lectureName": "OpenSource GIS WS24-25",
+    "description": "OpenSource GIS\nR (Studio)\nWindowsProgramme",
+    "imageVersionId": "03e06f92-ceb2-443f-a9a0-7e9b16364d0d",
+    "imageBaseId": "a729cb87-7b36-4116-9412-23746e6d9935",
+    "isEnabled": true,
+    "startTime": 1730070000,
+    "endTime": 1749247140,
+    "lastUsed": 1743169718,
+    "useCount": 99,
+    "ownerId": "owner_anon_7",
+    "updaterId": "owner_anon_7",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "7ed2dc69-827e-4a1d-8be8-e8dff88bb427",
+    "lectureName": "240626_Umweltökonomie_Nachpr",
+    "description": "Umweltökonomie Nachprüfung",
+    "imageVersionId": "9d8b1f7a-39b0-4c17-a24e-ebb92c56ddc0",
+    "imageBaseId": "550be3d8-b5cb-4718-8fe4-4ab9ecfec6cf",
+    "isEnabled": true,
+    "startTime": 1718575200,
+    "endTime": 1719525540,
+    "lastUsed": 1719409146,
+    "useCount": 46,
+    "ownerId": "owner_anon_23",
+    "updaterId": "owner_anon_4",
+    "isExam": true,
+    "hasInternetAccess": false,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "7ed2f699-df1b-47bd-9c8b-d709a4042649",
+    "lectureName": "FELIS-QGIS-R-2023",
+    "description": "Win10 mit QGIS 3.28 LTE + Plugins",
+    "imageVersionId": "9e22abd4-6fdd-464d-a607-d5eab3899e4f",
+    "imageBaseId": "b1bb2c15-6b05-40f6-b489-ee755ce09afa",
+    "isEnabled": true,
+    "startTime": 1699311600,
+    "endTime": 1735685940,
+    "lastUsed": 1734451206,
+    "useCount": 555,
+    "ownerId": "owner_anon_43",
+    "updaterId": "owner_anon_43",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "81532270-4eed-4a1a-837e-e340c8d3d295",
+    "lectureName": "Windows 10 - Wirtschaftswissenschaften: Programmieren mit Python",
+    "description": "Windows 10 für Veranstaltungen mit Anaconda und Python\nLibreOffice 7.1, Word, Excel, PowerPoint, firefox,\nJupiter Notebook (anaconda3)",
+    "imageVersionId": "bd159c9e-3fc6-4940-9a9f-069567cf3524",
+    "imageBaseId": "e4ee7566-5a20-45aa-906a-7b8226806588",
+    "isEnabled": false,
+    "startTime": 1633903200,
+    "endTime": 1755986340,
+    "lastUsed": 1743446296,
+    "useCount": 361,
+    "ownerId": "owner_anon_12",
+    "updaterId": "owner_anon_12",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": false,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "830ac663-a652-44be-9d2d-b5a8271c8d8e",
+    "lectureName": "GIS for Linguists",
+    "description": "excercise course, summer term 2024 \nMaster of Arts Linguistics – Language, Communication and Cognition",
+    "imageVersionId": "6f45e9fb-4f75-4b2b-a8d4-dd5930cd2b4c",
+    "imageBaseId": "f55c042f-b033-4c55-8412-94c2ade58168",
+    "isEnabled": true,
+    "startTime": 1712786400,
+    "endTime": 1727733540,
+    "lastUsed": 1726658353,
+    "useCount": 211,
+    "ownerId": "owner_anon_44",
+    "updaterId": "owner_anon_44",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "84356712-1eb0-4140-85bf-71aee1da8521",
+    "lectureName": "UNR_BIOM_Statistics",
+    "description": "updated default session for the statistic classes at UNR, updated from the previous \"UNR Statistik 4.2.1\".\nRx64 4.2.1, Word 2016, Excel 2016, PowerPoint 2016, Citavi 6, Firefox, Google chrome, LibreOffice 5.3, Rstudio 2022.07 with packages",
+    "imageVersionId": null,
+    "imageBaseId": null,
+    "isEnabled": false,
+    "startTime": 1667430000,
+    "endTime": 1714514340,
+    "lastUsed": 1698768660,
+    "useCount": 200,
+    "ownerId": "owner_anon_25",
+    "updaterId": "owner_anon_27",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": false,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "88b959fe-9eb2-47e2-aec4-12806612c88a",
+    "lectureName": "Grundlagen der künstlichen Intelligenz(KI)",
+    "description": "inkl. Spyder",
+    "imageVersionId": "2bec25ec-c20c-4d03-8602-1137e912cdcb",
+    "imageBaseId": "b69ca4df-7766-4c3d-b2c1-192efbb979f7",
+    "isEnabled": true,
+    "startTime": 1651442400,
+    "endTime": 1753999140,
+    "lastUsed": 1742390519,
+    "useCount": 321,
+    "ownerId": "owner_anon_2",
+    "updaterId": "owner_anon_2",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "88cd00d9-ea1c-4ad2-9f96-9fec559475bc",
+    "lectureName": "250224_Einführung_Programmieren",
+    "description": "Klausur EInführung ins Programmieren",
+    "imageVersionId": "3cc38c7c-c188-47cd-a5d5-7057f6121440",
+    "imageBaseId": "35fc6f0c-b567-4747-bc71-42c9ac539d73",
+    "isEnabled": true,
+    "startTime": 1738537200,
+    "endTime": 1740437940,
+    "lastUsed": 1740416320,
+    "useCount": 449,
+    "ownerId": "owner_anon_4",
+    "updaterId": "owner_anon_4",
+    "isExam": true,
+    "hasInternetAccess": false,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "88f0b47c-79b8-483e-933f-9c6ca5fc0094",
+    "lectureName": "Windows 11 24H2 (QEMU)",
+    "description": "Windows 11 Enterprise 24H2\n- Firefox\n- Notepad++\n- Adobe Reader DC\n- Libreoffice\n- 7zip",
+    "imageVersionId": "2fd05cb7-77ad-4f67-b5ad-1c25cc65f1e3",
+    "imageBaseId": "76766866-662c-4012-872c-6f606a154b0e",
+    "isEnabled": true,
+    "startTime": 1710198000,
+    "endTime": 1759269540,
+    "lastUsed": 1743514190,
+    "useCount": 68,
+    "ownerId": "owner_anon_37",
+    "updaterId": "owner_anon_37",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "8a0ab59f-8fed-4849-b285-953177b6c672",
+    "lectureName": "241121_Umweltsystemmodellierung",
+    "description": "Klausur USM mit RSTudio",
+    "imageVersionId": "9d8b1f7a-39b0-4c17-a24e-ebb92c56ddc0",
+    "imageBaseId": "550be3d8-b5cb-4718-8fe4-4ab9ecfec6cf",
+    "isEnabled": true,
+    "startTime": 1729634400,
+    "endTime": 1732229940,
+    "lastUsed": 1732203088,
+    "useCount": 108,
+    "ownerId": "owner_anon_4",
+    "updaterId": "owner_anon_4",
+    "isExam": true,
+    "hasInternetAccess": false,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "8a960f31-509e-449f-bd6b-e5b3bc1efaf6",
+    "lectureName": "Firewall Test",
+    "description": "asdfsdf",
+    "imageVersionId": "4c749136-2254-40e2-8ea8-a4248243b457",
+    "imageBaseId": "f78cc404-9ef2-443e-b638-bdf4d9836cc7",
+    "isEnabled": true,
+    "startTime": 1729461600,
+    "endTime": 1737154740,
+    "lastUsed": 1729702535,
+    "useCount": 10,
+    "ownerId": "owner_anon_22",
+    "updaterId": "owner_anon_22",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "8b65e4e1-ac6f-4505-8c61-22d648533304",
+    "lectureName": "Exam_hist_Seminar",
+    "description": "Für ILIAS-Klausur des hist. Seminars ",
+    "imageVersionId": "9d8b1f7a-39b0-4c17-a24e-ebb92c56ddc0",
+    "imageBaseId": "550be3d8-b5cb-4718-8fe4-4ab9ecfec6cf",
+    "isEnabled": true,
+    "startTime": 1720735200,
+    "endTime": 1721339940,
+    "lastUsed": 0,
+    "useCount": 0,
+    "ownerId": "owner_anon_5",
+    "updaterId": "owner_anon_5",
+    "isExam": true,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "8b7b9eda-c79a-4f8d-89e3-84e75a379423",
+    "lectureName": "Biom_Pythontest",
+    "description": "Nur zu Testzwecken!",
+    "imageVersionId": null,
+    "imageBaseId": null,
+    "isEnabled": false,
+    "startTime": 1723586400,
+    "endTime": 1734303540,
+    "lastUsed": 1729681756,
+    "useCount": 40,
+    "ownerId": "owner_anon_45",
+    "updaterId": "owner_anon_5",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": false,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "8be6d350-eea8-457c-b08b-e6f84539a8e4",
+    "lectureName": "CIP Chemie",
+    "description": "Windows 10 mit: Chemdraw, ChemSketch, DrawXTL, Mercury, MikTeX, TexStudio, Origin, PyMol, TopSpin, VMD, WinCoot\nGIMP, PowerPoint 2016, Access 2016, Excel 2016, Origin 2020b, gnumeric, ChimeraX, PyMOL, VMD, LibreOffice, LibreOffice Writer, LibreOffice Calc, ChimeraX, enCIFer, VLC Media Player, ChemDraw, SpectraGryph, Firefox, Drawxtl, Word 2016, Mercury, Texmaker, Topspin, WinCoot\n\nEtwa alle 3 Monate geupdatet - bei Wunsch nach anderen Programmen oder sonstigen Vorschlägen und Kritik bitte Mail an cip-support@cl.uni-freiburg.de",
+    "imageVersionId": "2a06ed6d-3b8f-4c3a-80c4-b95a7cd5705e",
+    "imageBaseId": "91d06203-e222-4538-b68a-c4cf5f33feb1",
+    "isEnabled": true,
+    "startTime": 1615503600,
+    "endTime": 1755061140,
+    "lastUsed": 1744627982,
+    "useCount": 5438,
+    "ownerId": "owner_anon_46",
+    "updaterId": "owner_anon_47",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "8d5303e3-f3f4-40ce-b112-a4c3b8805bd5",
+    "lectureName": "250404_Neuroscience-Resit",
+    "description": "Nachklausur Neuroscience",
+    "imageVersionId": "9d8b1f7a-39b0-4c17-a24e-ebb92c56ddc0",
+    "imageBaseId": "550be3d8-b5cb-4718-8fe4-4ab9ecfec6cf",
+    "isEnabled": true,
+    "startTime": 1740610800,
+    "endTime": 1743803940,
+    "lastUsed": 1743766963,
+    "useCount": 50,
+    "ownerId": "owner_anon_4",
+    "updaterId": "owner_anon_4",
+    "isExam": true,
+    "hasInternetAccess": false,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "902ac846-16c3-4e65-b641-822a6a488ade",
+    "lectureName": "WIP Probeklausur 2024/25",
+    "description": "Probeklausur der Vorlesung Wissenschaftliches Programmieren im WiSe 2024/25",
+    "imageVersionId": "c481693a-fc08-4096-a271-6d3df0257755",
+    "imageBaseId": "1b273427-01a9-45d1-8c75-e09f3fba8913",
+    "isEnabled": true,
+    "startTime": 1738054800,
+    "endTime": 1746356400,
+    "lastUsed": 1744106392,
+    "useCount": 265,
+    "ownerId": "owner_anon_21",
+    "updaterId": "owner_anon_5",
+    "isExam": true,
+    "hasInternetAccess": false,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": false
+  },
+  {
+    "lectureId": "92ef113b-2592-4a7a-a079-bc67bd040587",
+    "lectureName": "Windows 10 - Bibliothek Physik mit Druckfunktion",
+    "description": "-> LibreOffice\n-> Zotero\n-> Juri-M\n-> Citavi\n-> Acrobat Reader\n-> CD Burner XP\n-> vlc-Player (Wiedergabe von Mediendateien)\n-> GIMP 2 (Bildbearbeitungsprogramm)\n-> Paint (einfaches Bildbearbeitungsprogramm)\n-> Notepad++ (einfacher Editor)\n",
+    "imageVersionId": "9471304a-8c66-473f-bbcb-881370a441c1",
+    "imageBaseId": "ca3684dc-a2c2-4f71-9eef-8b413751c8a9",
+    "isEnabled": true,
+    "startTime": 1635980400,
+    "endTime": 1747691940,
+    "lastUsed": 1740490509,
+    "useCount": 49,
+    "ownerId": "owner_anon_19",
+    "updaterId": "owner_anon_19",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "9343dabd-16f6-4e79-81db-ee9e1b1ff20c",
+    "lectureName": "WinNT4.0",
+    "description": "awdawdawd",
+    "imageVersionId": "459d53f4-8248-48ac-b0ae-7075763e0a3d",
+    "imageBaseId": "72ed5649-47be-4d83-adc9-aa09e8387a26",
+    "isEnabled": false,
+    "startTime": 1674169200,
+    "endTime": 1723586340,
+    "lastUsed": 1722241331,
+    "useCount": 47,
+    "ownerId": "owner_anon_22",
+    "updaterId": "owner_anon_22",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": false,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "9344deab-2156-4dd7-8c8e-9f72711f0726",
+    "lectureName": "Geographie Naturgefahren WS23-24",
+    "description": "QGIS, R/RStudio",
+    "imageVersionId": null,
+    "imageBaseId": null,
+    "isEnabled": false,
+    "startTime": 1701730800,
+    "endTime": 1743458340,
+    "lastUsed": 1733229899,
+    "useCount": 126,
+    "ownerId": "owner_anon_48",
+    "updaterId": "owner_anon_48",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": false,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "93586ef8-fb51-4069-97fd-4b94671f37dc",
+    "lectureName": "USB-Blockierung Test qemu",
+    "description": "Nur zum Testen der USB-Sperre (Massenspeicher)",
+    "imageVersionId": "ee1d2649-c3d4-4ad2-aa4d-3972e2f64d0c",
+    "imageBaseId": "21dbe3ac-cadd-4e3b-9d89-af8ff9c73e19",
+    "isEnabled": true,
+    "startTime": 1726696800,
+    "endTime": 1730415540,
+    "lastUsed": 1726845811,
+    "useCount": 4,
+    "ownerId": "owner_anon_5",
+    "updaterId": "owner_anon_22",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": false
+  },
+  {
+    "lectureId": "9373326c-8455-4398-8ba7-37cf111737c9",
+    "lectureName": "Windows 10 - Bibliothek für Forstwissenschaften, Scanner-PC",
+    "description": "Winows 10 angepasst für die Bibliothek der Forstwissenschaften. Mit Möglichkeit den dortigen Drucker und Scanner zu verwenden.\n\n* HP Scan\n* Windows Scanner\n* Gimp\n* IrfanView\n* gImageReader (OCR)\n* Microsoft Office\n* LibreOffice\n* Adobe Acrobat Reader\n* Notepad++\n* VLC Player\n* Citavi 6\n* Zotero",
+    "imageVersionId": "b7326ded-dc63-43f5-8b58-0bd9ceb51600",
+    "imageBaseId": "e4efb03e-407a-47fd-badb-37d94b9478cd",
+    "isEnabled": true,
+    "startTime": 1668121200,
+    "endTime": 1757887140,
+    "lastUsed": 1743433992,
+    "useCount": 794,
+    "ownerId": "owner_anon_19",
+    "updaterId": "owner_anon_19",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "9412ab65-1263-4ad7-8611-6a161bfb5596",
+    "lectureName": "Windows 7 - ZfS  Wordkurs ",
+    "description": "Windows 7 (32 bit)\n\nWORD-Kurs ZfS (Diego Cürten)\n\nInstallierte\n -> 7-Zip\n -> Adobe Acrobat Reader\n -> Adobe Flash Player\n -> CDBurnerXP\n -> Mozilla Firefox\n -> Internet Explorer\n -> Microsoft Office 2013\n -> LibreOffice\n -> Skype\n -> PDFCreator\n -> GIMP\n -> Citavi 5\n -> VLC player\n -> Paint.net\n -> Notepad++\n -> FileZilla Client",
+    "imageVersionId": "28457e37-02b5-4648-938a-ba47a4a21478",
+    "imageBaseId": "061edcde-a6c4-4e8c-8080-f3ca3a48e000",
+    "isEnabled": false,
+    "startTime": 1528286400,
+    "endTime": 1717245181,
+    "lastUsed": 1715336547,
+    "useCount": 944,
+    "ownerId": "owner_anon_38",
+    "updaterId": "owner_anon_38",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": false,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "94f1c981-4af3-40ee-9b3c-ac87f6795184",
+    "lectureName": "0000_Exam_SEB-Test",
+    "description": "Test der ESB-Konfigurationen",
+    "imageVersionId": "9d8b1f7a-39b0-4c17-a24e-ebb92c56ddc0",
+    "imageBaseId": "550be3d8-b5cb-4718-8fe4-4ab9ecfec6cf",
+    "isEnabled": false,
+    "startTime": 1704754800,
+    "endTime": 1746050400,
+    "lastUsed": 1704812409,
+    "useCount": 8,
+    "ownerId": "owner_anon_4",
+    "updaterId": "owner_anon_4",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "9599af07-9501-4bb2-b9b1-fdba4c7ab0f8",
+    "lectureName": "EidP Exam",
+    "description": "lecture for einführung in die programmierung exam (lehrstuhl programmiersprachen, institut für informatik)",
+    "imageVersionId": "3cc38c7c-c188-47cd-a5d5-7057f6121440",
+    "imageBaseId": "35fc6f0c-b567-4747-bc71-42c9ac539d73",
+    "isEnabled": true,
+    "startTime": 1675206000,
+    "endTime": 1745445540,
+    "lastUsed": 1740384569,
+    "useCount": 2048,
+    "ownerId": "owner_anon_30",
+    "updaterId": "owner_anon_30",
+    "isExam": false,
+    "hasInternetAccess": false,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": false
+  },
+  {
+    "lectureId": "9807c1f4-b76b-4cdb-b2d5-127da3ba3711",
+    "lectureName": "250204_AdvancedStatistics",
+    "description": "Klausur Advanced Statistics:\nRStudio",
+    "imageVersionId": "9d8b1f7a-39b0-4c17-a24e-ebb92c56ddc0",
+    "imageBaseId": "550be3d8-b5cb-4718-8fe4-4ab9ecfec6cf",
+    "isEnabled": true,
+    "startTime": 1738018800,
+    "endTime": 1738796340,
+    "lastUsed": 1738755219,
+    "useCount": 28,
+    "ownerId": "owner_anon_4",
+    "updaterId": "owner_anon_4",
+    "isExam": true,
+    "hasInternetAccess": false,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "98bf9c7f-e867-40cc-9223-9bf2514332c2",
+    "lectureName": "2024_WIP_Alternativ",
+    "description": "Testing",
+    "imageVersionId": "3e9e5d25-dbca-432c-8f41-1c77beaa39a0",
+    "imageBaseId": "8fdf26ee-fb48-4c8c-9e7f-a273d419cfa6",
+    "isEnabled": false,
+    "startTime": 1706569200,
+    "endTime": 1714514340,
+    "lastUsed": 1712213063,
+    "useCount": 22,
+    "ownerId": "owner_anon_21",
+    "updaterId": "owner_anon_21",
+    "isExam": false,
+    "hasInternetAccess": false,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": false,
+    "hasUsbAccess": false
+  },
+  {
+    "lectureId": "9950c9bd-0560-4289-a0b0-24d896b0a0e8",
+    "lectureName": "m+v CAD-Test (VMware)",
+    "description": "CAD-Test in VMware-Umgebung um CAD zu machen\nhallo simon",
+    "imageVersionId": null,
+    "imageBaseId": null,
+    "isEnabled": false,
+    "startTime": 1682373600,
+    "endTime": 1735685940,
+    "lastUsed": 1682681263,
+    "useCount": 3,
+    "ownerId": "owner_anon_37",
+    "updaterId": "owner_anon_37",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": false,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "9ab48564-3ef7-4234-ab8d-c427cf21ebc5",
+    "lectureName": "High Performance Computing: Fluid Dynamics with Python",
+    "description": "This is the VM for HPC classes of Simulation at IMTEK",
+    "imageVersionId": "5b542d8b-0da9-4b26-8c74-7b5e670f1a42",
+    "imageBaseId": "fd97b5bf-a180-4f16-aada-e3dbadafcdd7",
+    "isEnabled": false,
+    "startTime": 1706742000,
+    "endTime": 1743421500,
+    "lastUsed": 1737465693,
+    "useCount": 2087,
+    "ownerId": "owner_anon_8",
+    "updaterId": "owner_anon_8",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": false,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "9becc0c0-67ad-4d0d-817f-622678539096",
+    "lectureName": "Chemie QM-Kurs SS2024",
+    "description": "Image zum Festkörperteil des QM-Kurses 2024",
+    "imageVersionId": null,
+    "imageBaseId": null,
+    "isEnabled": false,
+    "startTime": 1689372000,
+    "endTime": 1735685940,
+    "lastUsed": 1730820705,
+    "useCount": 60,
+    "ownerId": "owner_anon_49",
+    "updaterId": "owner_anon_49",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": false,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "9ea57afa-9899-483f-9864-e35a2ac4607e",
+    "lectureName": "m+v CAD-Test (QEMU+GVT)",
+    "description": "CAD-Test in QEMU-Umgebung\n+ Nvidia-Treiber + Intel-Treiber",
+    "imageVersionId": "59a9d974-0f89-4ba2-8abe-154b5dd13098",
+    "imageBaseId": "e5468c5f-893a-4570-a07d-b47c228604b2",
+    "isEnabled": true,
+    "startTime": 1682546400,
+    "endTime": 1759269540,
+    "lastUsed": 1737037973,
+    "useCount": 58,
+    "ownerId": "owner_anon_37",
+    "updaterId": "owner_anon_37",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "9fcc26a6-8792-4117-8e0c-881b50c5f3c7",
+    "lectureName": "Ernie kaputtes EFI",
+    "description": "-",
+    "imageVersionId": "2f14f46f-02cc-4e45-ae94-9ca92e41e00e",
+    "imageBaseId": "c1cb750e-cdfe-4470-a2ae-fab4943e54fa",
+    "isEnabled": true,
+    "startTime": 1741820400,
+    "endTime": 1751320740,
+    "lastUsed": 1742396512,
+    "useCount": 7,
+    "ownerId": "owner_anon_37",
+    "updaterId": "owner_anon_37",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "9fee9517-d967-46e9-acdc-dfd412b77463",
+    "lectureName": "Windows 10 - Bibliothek Chemie und Pharmazie mit Druckfunktion",
+    "description": "-> LibreOffice\n-> Zotero\n-> Juri-M\n-> Citavi\n-> Acrobat Reader\n-> CD Burner XP\n-> vlc-Player (Wiedergabe von Mediendateien)\n-> GIMP 2 (Bildbearbeitungsprogramm)\n-> Paint (einfaches Bildbearbeitungsprogramm)\n-> Notepad++ (einfacher Editor)\n",
+    "imageVersionId": "f0c19be6-d474-4fcd-8e29-697248b84e84",
+    "imageBaseId": "751f98d5-6b28-40c3-9c23-9ee6ee2af3fa",
+    "isEnabled": true,
+    "startTime": 1634248800,
+    "endTime": 1752011940,
+    "lastUsed": 1744649806,
+    "useCount": 1393,
+    "ownerId": "owner_anon_19",
+    "updaterId": "owner_anon_19",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "a21117a7-eb0c-4765-9eb6-8e1abdc9d96a",
+    "lectureName": "Debian 12 Bookworm 64bit qemu Standard",
+    "description": "LibreOffice, Firefox, Gimp …",
+    "imageVersionId": "485df9c8-cf7b-471c-8ee0-c1414ca09751",
+    "imageBaseId": "89dc3982-2e2a-4704-a7ce-6f65338a11ee",
+    "isEnabled": true,
+    "startTime": 1741820400,
+    "endTime": 1760997540,
+    "lastUsed": 1744633030,
+    "useCount": 15,
+    "ownerId": "owner_anon_5",
+    "updaterId": "owner_anon_5",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "a23a9bfc-d919-41b0-92ed-f908dfd2161e",
+    "lectureName": "Galaxy courses",
+    "description": "Recurrent courses of the Galaxy Europe Team",
+    "imageVersionId": "85ed2f81-8713-43dc-871c-3d5bdcebe0a5",
+    "imageBaseId": "303c45aa-6d1f-41c7-822b-3f46b3ac6ef5",
+    "isEnabled": true,
+    "startTime": 1735686000,
+    "endTime": 1754085540,
+    "lastUsed": 1744201282,
+    "useCount": 801,
+    "ownerId": "owner_anon_50",
+    "updaterId": "owner_anon_50",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "a2fa81f5-61e3-41d2-a8cc-44a26128c527",
+    "lectureName": "SoSe25_BioMSc_Sp1-06_EinführungBioinformatik",
+    "description": "MSc Biologie, SP1-06 Kursteil \"Einführung in die Bioinformatik und molekulare Evolution\". ",
+    "imageVersionId": "65e16da4-b785-417b-bcc8-6d7b258a30c9",
+    "imageBaseId": "831509c6-a3cf-4d35-b73a-f2cb20744993",
+    "isEnabled": true,
+    "startTime": 1682460000,
+    "endTime": 1763765940,
+    "lastUsed": 1740470993,
+    "useCount": 72,
+    "ownerId": "owner_anon_51",
+    "updaterId": "owner_anon_51",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "a355afb3-c05a-4ea1-858b-b06f5f351d9c",
+    "lectureName": "Landscape Genomics - with R",
+    "description": "Landscape Genomics VM including R",
+    "imageVersionId": "3cec6bee-0ee7-4006-af1a-7f18f6c3f234",
+    "imageBaseId": "d33f9cff-4173-4336-b5e4-4997ff37f85e",
+    "isEnabled": true,
+    "startTime": 1732143600,
+    "endTime": 1740869940,
+    "lastUsed": 1740556757,
+    "useCount": 27,
+    "ownerId": "owner_anon_52",
+    "updaterId": "owner_anon_52",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "a4b1e34b-d9e2-4b64-9f02-d5df262fcb26",
+    "lectureName": "BCF-Ubuntu_20.04",
+    "description": "BCF courses with Python and NEST",
+    "imageVersionId": "0704fdb5-ee4d-424d-ab0f-a08ef2c356ff",
+    "imageBaseId": "12eaa1c6-3ec8-4b8e-994f-86f4a0237396",
+    "isEnabled": true,
+    "startTime": 1694901600,
+    "endTime": 1756677540,
+    "lastUsed": 1744636877,
+    "useCount": 2931,
+    "ownerId": "owner_anon_9",
+    "updaterId": "owner_anon_10",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "a4f04c30-2a0e-4c84-afe7-9f5ad275f70b",
+    "lectureName": "0000_Exam_SEB-Config",
+    "description": "Konfiguration von SEB-Dateien für Prüfungen",
+    "imageVersionId": "9d8b1f7a-39b0-4c17-a24e-ebb92c56ddc0",
+    "imageBaseId": "550be3d8-b5cb-4718-8fe4-4ab9ecfec6cf",
+    "isEnabled": true,
+    "startTime": 1704754800,
+    "endTime": 1746050400,
+    "lastUsed": 1742913873,
+    "useCount": 52,
+    "ownerId": "owner_anon_4",
+    "updaterId": "owner_anon_4",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "a58babe9-7c88-4db9-b06b-870cd0f32b25",
+    "lectureName": "Exam_Wirtschafts_Verhaltenswissenschaft",
+    "description": "Klausur Wirtschafts- und Verhaltenswissenschaften, \nWirtschaftspolitik Prof. Neumärker",
+    "imageVersionId": "9d8b1f7a-39b0-4c17-a24e-ebb92c56ddc0",
+    "imageBaseId": "550be3d8-b5cb-4718-8fe4-4ab9ecfec6cf",
+    "isEnabled": true,
+    "startTime": 1722376800,
+    "endTime": 1722635940,
+    "lastUsed": 1722595811,
+    "useCount": 73,
+    "ownerId": "owner_anon_5",
+    "updaterId": "owner_anon_23",
+    "isExam": true,
+    "hasInternetAccess": false,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": false
+  },
+  {
+    "lectureId": "a86ccc82-eefb-47d3-a357-a8118880b734",
+    "lectureName": "WM4_A3-Scanner_Druckerraum",
+    "description": "Abgel. von Win10-Standard + Software Epson GT20000",
+    "imageVersionId": null,
+    "imageBaseId": null,
+    "isEnabled": false,
+    "startTime": 1686693600,
+    "endTime": 1735682340,
+    "lastUsed": 1730911528,
+    "useCount": 26,
+    "ownerId": "owner_anon_5",
+    "updaterId": "owner_anon_2",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": false,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "aae7f11e-efab-4877-bd06-2d160382fb96",
+    "lectureName": "Simulation",
+    "description": "Docker image for Simulation",
+    "imageVersionId": "a366da7a-a208-488f-a6b1-d12e9496cfdf",
+    "imageBaseId": "c46a824a-1e6a-4911-9c07-ba9cfdb5f0b1",
+    "isEnabled": false,
+    "startTime": 1730847600,
+    "endTime": 1743458340,
+    "lastUsed": 1730912773,
+    "useCount": 1,
+    "ownerId": "owner_anon_8",
+    "updaterId": "owner_anon_8",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "ab0d3004-bd66-46ca-9b24-8a7f35a8f90e",
+    "lectureName": "240813_EEA",
+    "description": "Klausur Electrochemical energy applications",
+    "imageVersionId": "9d8b1f7a-39b0-4c17-a24e-ebb92c56ddc0",
+    "imageBaseId": "550be3d8-b5cb-4718-8fe4-4ab9ecfec6cf",
+    "isEnabled": true,
+    "startTime": 1723413600,
+    "endTime": 1723586340,
+    "lastUsed": 1723535325,
+    "useCount": 76,
+    "ownerId": "owner_anon_4",
+    "updaterId": "owner_anon_4",
+    "isExam": true,
+    "hasInternetAccess": false,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "ac043494-16e6-43e7-8d40-99e653b02342",
+    "lectureName": "250403_Umweltmodellierung",
+    "description": "VM für BSc Umweltwissenschaften",
+    "imageVersionId": "d8772c02-929f-487e-8096-f8d6cba0d532",
+    "imageBaseId": "f3ac7182-05d5-40fd-87f3-f483a5bd2527",
+    "isEnabled": true,
+    "startTime": 1743631200,
+    "endTime": 1762210740,
+    "lastUsed": 1744363666,
+    "useCount": 1,
+    "ownerId": "owner_anon_27",
+    "updaterId": "owner_anon_27",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "ad21a2d9-89c8-4c8e-9f86-001a121ac7a2",
+    "lectureName": "Windows 10 - Bibliothek Biologie II und III mit Druckfunktion",
+    "description": "-> LibreOffice\n-> Zotero\n-> Juri-M\n-> Citavi\n-> Acrobat Reader\n-> CD Burner XP\n-> vlc-Player (Wiedergabe von Mediendateien)\n-> GIMP 2 (Bildbearbeitungsprogramm)\n-> Paint (einfaches Bildbearbeitungsprogramm)\n-> Notepad++ (einfacher Editor)",
+    "imageVersionId": "8b751296-2ab7-4cfe-b7d1-254e59c0012b",
+    "imageBaseId": "0c43a883-fd48-46a4-ab7c-fd551b896c36",
+    "isEnabled": true,
+    "startTime": 1604530800,
+    "endTime": 1757887140,
+    "lastUsed": 1744633371,
+    "useCount": 290,
+    "ownerId": "owner_anon_19",
+    "updaterId": "owner_anon_19",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "ad21c904-d2a2-4156-869d-189d9d78daa9",
+    "lectureName": "DGL WS24/25",
+    "description": "Image zur E-Klausur Differentialgleichungen",
+    "imageVersionId": "f2d2e5dd-d8bb-486e-9398-0a7b723ceb2a",
+    "imageBaseId": "feba5585-b386-4468-8c5a-939320cefb79",
+    "isEnabled": true,
+    "startTime": 1708297200,
+    "endTime": 1741647540,
+    "lastUsed": 1740387538,
+    "useCount": 478,
+    "ownerId": "owner_anon_8",
+    "updaterId": "owner_anon_8",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "adc290fc-e58c-4e4e-b73e-f026a7c1b519",
+    "lectureName": "250206_Umweltmikrobiologie",
+    "description": "Klausur Umweltmikrobiologie und Biochemie",
+    "imageVersionId": "9d8b1f7a-39b0-4c17-a24e-ebb92c56ddc0",
+    "imageBaseId": "550be3d8-b5cb-4718-8fe4-4ab9ecfec6cf",
+    "isEnabled": true,
+    "startTime": 1737932400,
+    "endTime": 1738882740,
+    "lastUsed": 1738837550,
+    "useCount": 116,
+    "ownerId": "owner_anon_4",
+    "updaterId": "owner_anon_4",
+    "isExam": true,
+    "hasInternetAccess": false,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "add069f8-3aca-4e44-9cde-6d7b04ab898b",
+    "lectureName": "Geologie CIP Pool",
+    "description": "Contains all needed programs. (Matlab, Arcgis, Adobe, Surfer)\n\nunfortunately the OS is in german for now, \nthat might change in the future",
+    "imageVersionId": "a3923220-74f5-4372-ab96-ebf020f7e9e0",
+    "imageBaseId": "c5c058fc-6375-48f4-8506-b978fa38775d",
+    "isEnabled": true,
+    "startTime": 1709247600,
+    "endTime": 1748210340,
+    "lastUsed": 1744186277,
+    "useCount": 2215,
+    "ownerId": "owner_anon_36",
+    "updaterId": "owner_anon_36",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "aec665e3-8595-423a-a84b-80b7d11df289",
+    "lectureName": "Windows 10 - Wirtschaftswissenschaften Freiburg",
+    "description": "Windows 10 22H2\nmit SPSS 29 und STATA",
+    "imageVersionId": "aec56f01-d569-4284-9f1f-205725df9659",
+    "imageBaseId": "3edd2d64-54c9-4b66-b0c8-f242b0eb303c",
+    "isEnabled": true,
+    "startTime": 1699311600,
+    "endTime": 1755986340,
+    "lastUsed": 1744699353,
+    "useCount": 2669,
+    "ownerId": "owner_anon_12",
+    "updaterId": "owner_anon_12",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "b1b39c36-39ee-4444-ae15-6ded648133c0",
+    "lectureName": "Klausur Electrochemical Energy  Systems",
+    "description": "Technische Fakultät, Electrochemical Energy Systems: Fuel Cells and Electrolysis\nCarolin Klose, carolin.klose@imtek.uni-freiburg.de",
+    "imageVersionId": "9d8b1f7a-39b0-4c17-a24e-ebb92c56ddc0",
+    "imageBaseId": "550be3d8-b5cb-4718-8fe4-4ab9ecfec6cf",
+    "isEnabled": true,
+    "startTime": 1722376800,
+    "endTime": 1723586340,
+    "lastUsed": 0,
+    "useCount": 0,
+    "ownerId": "owner_anon_5",
+    "updaterId": "owner_anon_5",
+    "isExam": true,
+    "hasInternetAccess": false,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": false
+  },
+  {
+    "lectureId": "b46e5e1e-b9f7-448a-887b-99c058a017ea",
+    "lectureName": "UNR GIS in der Forstwirtschaft (WiSe 24/25)",
+    "description": "WIn 10 ARCGIS",
+    "imageVersionId": "98c784bb-0dcd-4a3c-a6d8-2f3473ba55c8",
+    "imageBaseId": "40845122-9b6e-4d96-a9d5-02f58a34e2b8",
+    "isEnabled": true,
+    "startTime": 1729029600,
+    "endTime": 1744840740,
+    "lastUsed": 1741169823,
+    "useCount": 192,
+    "ownerId": "owner_anon_48",
+    "updaterId": "owner_anon_48",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "b4afaf0e-7bfe-4f64-9708-6a2b2ebec0ac",
+    "lectureName": "DataPLANT",
+    "description": "Windows 10 for DataPLANT with:\n\nSwate\nArcCommander\nArcitect\nOffice Programs\nProtégé\nGit (gVim als Editor)\nReFS Storage\n",
+    "imageVersionId": "37508752-9dcb-4b98-9158-3f1bc79d41a2",
+    "imageBaseId": "7a13964c-aeee-4d5d-9832-ac886a46047d",
+    "isEnabled": true,
+    "startTime": 1649109600,
+    "endTime": 1751666340,
+    "lastUsed": 1738666653,
+    "useCount": 126,
+    "ownerId": "owner_anon_51",
+    "updaterId": "owner_anon_51",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "b7ea85c8-5d6b-4db3-aec9-980100e548ee",
+    "lectureName": "Exam/eklausur",
+    "description": "Testat",
+    "imageVersionId": "9d8b1f7a-39b0-4c17-a24e-ebb92c56ddc0",
+    "imageBaseId": "550be3d8-b5cb-4718-8fe4-4ab9ecfec6cf",
+    "isEnabled": true,
+    "startTime": 1742338800,
+    "endTime": 1742597940,
+    "lastUsed": 1742545715,
+    "useCount": 31,
+    "ownerId": "owner_anon_18",
+    "updaterId": "owner_anon_4",
+    "isExam": true,
+    "hasInternetAccess": false,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": false
+  },
+  {
+    "lectureId": "ba3d01aa-e191-4f0c-97fe-c7108a218e86",
+    "lectureName": "250203_WrittenComp",
+    "description": "Exam",
+    "imageVersionId": "fa9a4639-3caa-4c63-bfb2-cb95fbdd6023",
+    "imageBaseId": "440d0513-7c94-4dcd-a045-01207661346a",
+    "isEnabled": true,
+    "startTime": 1734476400,
+    "endTime": 1738709940,
+    "lastUsed": 1738586936,
+    "useCount": 51,
+    "ownerId": "owner_anon_23",
+    "updaterId": "owner_anon_4",
+    "isExam": true,
+    "hasInternetAccess": false,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": false
+  },
+  {
+    "lectureId": "bcef8180-e90c-4237-8aaa-fa55d5e08bff",
+    "lectureName": "Geographie Geomorph",
+    "description": "Fakultät für Umwelt und Natürliche Ressourcen / Physische Geographie. Windows 10 Rechner mit GIS Software QGIS 3.28 LTR, Metashape 2.0.1 sowie R 4.3.2 und RStudio 2023.03.",
+    "imageVersionId": "7ae88d2c-24ea-43dd-b24d-bf7624674bc8",
+    "imageBaseId": "f2c91d90-f71c-4d40-8788-490643ddb876",
+    "isEnabled": true,
+    "startTime": 1680904800,
+    "endTime": 1761865140,
+    "lastUsed": 1742817587,
+    "useCount": 1081,
+    "ownerId": "owner_anon_20",
+    "updaterId": "owner_anon_20",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "bdf99d9b-73ef-4ae8-8d2d-caae100db6e6",
+    "lectureName": "Landscape Genomics",
+    "description": "Landscape genomics course",
+    "imageVersionId": "a2ab2027-d4dc-4656-b0e8-e1a7ea116e28",
+    "imageBaseId": "402209a0-3959-45f3-a42d-4a04f027a245",
+    "isEnabled": true,
+    "startTime": 1728424800,
+    "endTime": 1740005940,
+    "lastUsed": 1739194166,
+    "useCount": 37,
+    "ownerId": "owner_anon_52",
+    "updaterId": "owner_anon_52",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "be53f1fc-c71a-4934-9f18-117c5de22ef6",
+    "lectureName": "250213_Klimawandel",
+    "description": "Klausur \"klimawandel und Vegetation\"",
+    "imageVersionId": "9d8b1f7a-39b0-4c17-a24e-ebb92c56ddc0",
+    "imageBaseId": "550be3d8-b5cb-4718-8fe4-4ab9ecfec6cf",
+    "isEnabled": true,
+    "startTime": 1739055600,
+    "endTime": 1739487540,
+    "lastUsed": 1739444244,
+    "useCount": 156,
+    "ownerId": "owner_anon_4",
+    "updaterId": "owner_anon_4",
+    "isExam": true,
+    "hasInternetAccess": false,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "bf577696-0836-431c-ac13-16213d73fbe2",
+    "lectureName": "CIP Pool Pharmazie OKH Win 10 Standard",
+    "description": "Standardwindows-Umgebung für den CIP Pool Pharmazie im Otto-Krayer-Haus, Albertstr. 25",
+    "imageVersionId": "536afd19-1b94-44ad-8a16-c7773961e452",
+    "imageBaseId": "92b56d5d-4f5c-4e44-9e11-e121913f73ae",
+    "isEnabled": true,
+    "startTime": 1712786400,
+    "endTime": 1761951540,
+    "lastUsed": 1744657754,
+    "useCount": 133,
+    "ownerId": "owner_anon_53",
+    "updaterId": "owner_anon_53",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "c05f2ecc-16d7-4ab8-a599-9ce3c7ec02fa",
+    "lectureName": "240926_Radiologie",
+    "description": "Radiologie-Klausur",
+    "imageVersionId": "9d8b1f7a-39b0-4c17-a24e-ebb92c56ddc0",
+    "imageBaseId": "550be3d8-b5cb-4718-8fe4-4ab9ecfec6cf",
+    "isEnabled": true,
+    "startTime": 1727042400,
+    "endTime": 1727387940,
+    "lastUsed": 1727337374,
+    "useCount": 279,
+    "ownerId": "owner_anon_4",
+    "updaterId": "owner_anon_4",
+    "isExam": true,
+    "hasInternetAccess": false,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "c0d1fb91-112d-4c51-893c-80c4565b498a",
+    "lectureName": "MAXQDA Windows 10 LTSC 2021",
+    "description": "Kursimage mit MAXQDA 2024 und weiteren Programmen:\nMAXQDA 2024\nCitavi 6\nOffice 2019\nNotepad ++\nVLC Player\n7 zip\nPDF Creator\nChrome \nFirefox",
+    "imageVersionId": "27e14b9b-995c-409e-8cf6-2302f288dc62",
+    "imageBaseId": "60827366-5d18-4bf8-843d-6c8fa99ca7b4",
+    "isEnabled": true,
+    "startTime": 1733871600,
+    "endTime": 1751407140,
+    "lastUsed": 1744637596,
+    "useCount": 2778,
+    "ownerId": "owner_anon_40",
+    "updaterId": "owner_anon_40",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "c16b64e0-d6e6-43e6-b54e-f19a03c57eff",
+    "lectureName": "Bioinformatics Forest",
+    "description": "Genetics & Genomics Methods\nBioinformatics",
+    "imageVersionId": null,
+    "imageBaseId": null,
+    "isEnabled": false,
+    "startTime": 1704841200,
+    "endTime": 1722549540,
+    "lastUsed": 1717140763,
+    "useCount": 89,
+    "ownerId": "owner_anon_13",
+    "updaterId": "owner_anon_13",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": false,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "c1dafff4-4e57-4a2a-bbf0-17d59d4d80b1",
+    "lectureName": "Examtest_ublock",
+    "description": "Versuch mit UBlock",
+    "imageVersionId": "9d8b1f7a-39b0-4c17-a24e-ebb92c56ddc0",
+    "imageBaseId": "550be3d8-b5cb-4718-8fe4-4ab9ecfec6cf",
+    "isEnabled": true,
+    "startTime": 1721685600,
+    "endTime": 1722376740,
+    "lastUsed": 1721743269,
+    "useCount": 1,
+    "ownerId": "owner_anon_5",
+    "updaterId": "owner_anon_5",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "c34a512c-f770-4dc5-84d3-c9bce47e032e",
+    "lectureName": "Bodenkunde_Master",
+    "description": "Win10_64 mit R, RStudio, Hydrus 1D, ggplot2, dplyr, tidyr",
+    "imageVersionId": "00cb082a-2aac-412a-8f27-4e00ea5ecd66",
+    "imageBaseId": "65ca8ea4-1271-4fdf-80aa-02069616d941",
+    "isEnabled": true,
+    "startTime": 1736722800,
+    "endTime": 1751320740,
+    "lastUsed": 1744620928,
+    "useCount": 56,
+    "ownerId": "owner_anon_5",
+    "updaterId": "owner_anon_5",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "c635c91a-7c07-4d99-af57-add9c7ac22a2",
+    "lectureName": "Windows 10 22H2 (VMware)",
+    "description": "Windows 10 Enterprise 22H2\n- Firefox\n- Notepad++\n- Adobe Reader DC\n- Libreoffice\n- 7zip",
+    "imageVersionId": "a1573cc9-e84b-43ba-b36e-115b8e59a2dc",
+    "imageBaseId": "e5973305-0f97-476c-a6cd-e33982760c7a",
+    "isEnabled": true,
+    "startTime": 1691532000,
+    "endTime": 1719784740,
+    "lastUsed": 1719491833,
+    "useCount": 41,
+    "ownerId": "owner_anon_37",
+    "updaterId": "owner_anon_37",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "c9fd1288-c352-4b43-9d49-7b3ffc8fa73f",
+    "lectureName": "Geographie r.avaflow",
+    "description": "Ubuntu 20.04 with r.avaflow - The mass flow simulation tool landslidemodels.org (https://www.landslidemodels.org/r.avaflow/)",
+    "imageVersionId": "7ba0c877-37d0-4554-ae3b-547b99fae895",
+    "imageBaseId": "12b31556-f0c3-488b-b60a-235b1707f4a2",
+    "isEnabled": true,
+    "startTime": 1699830000,
+    "endTime": 1761605940,
+    "lastUsed": 1744034223,
+    "useCount": 16,
+    "ownerId": "owner_anon_20",
+    "updaterId": "owner_anon_20",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "cc912ced-5a0e-4190-85f6-c24af305ae49",
+    "lectureName": "Wegebau 2024",
+    "description": "BSc-Kurs Wegebau",
+    "imageVersionId": "5d60501b-73ac-4009-a7e1-bba4add39e5c",
+    "imageBaseId": "0e6112ab-b5f7-4152-9371-7bf90278c60e",
+    "isEnabled": false,
+    "startTime": 1709506800,
+    "endTime": 1717192740,
+    "lastUsed": 1717140328,
+    "useCount": 23,
+    "ownerId": "owner_anon_48",
+    "updaterId": "owner_anon_5",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": false,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "cf8f1610-fb2d-4036-b836-36c542f658de",
+    "lectureName": "250128_NachhaltigeLandnutzung",
+    "description": "Klausur",
+    "imageVersionId": "9d8b1f7a-39b0-4c17-a24e-ebb92c56ddc0",
+    "imageBaseId": "550be3d8-b5cb-4718-8fe4-4ab9ecfec6cf",
+    "isEnabled": true,
+    "startTime": 1737586800,
+    "endTime": 1738105140,
+    "lastUsed": 1738058345,
+    "useCount": 50,
+    "ownerId": "owner_anon_4",
+    "updaterId": "owner_anon_4",
+    "isExam": true,
+    "hasInternetAccess": false,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "cfaed7e6-b76a-4640-b1cc-dee7d9739f64",
+    "lectureName": "Zero2Hero",
+    "description": "Python introduction organized by the Freiburg Galaxy Team",
+    "imageVersionId": null,
+    "imageBaseId": null,
+    "isEnabled": false,
+    "startTime": 1727042400,
+    "endTime": 1732402740,
+    "lastUsed": 1729241248,
+    "useCount": 3,
+    "ownerId": "owner_anon_50",
+    "updaterId": "owner_anon_50",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": false,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "d0e2de2d-b3a2-413b-b1de-ae513d1c29db",
+    "lectureName": "SPSS und Amos 30",
+    "description": "Kursraum mit der aktuellen Version von SPSS und Amos.\nIBM SPSS Statistics, sowie VLC, Firefox, Word 2016, Access 2016, Excel 2016, PowerPoint 2016, gnumeric, LibreOffice 6.4",
+    "imageVersionId": "1ac7d2f6-bd76-4e88-8559-b4d0e549c371",
+    "imageBaseId": "5733c2b8-f45d-4f90-9cb1-7065ccf02cbe",
+    "isEnabled": true,
+    "startTime": 1637276400,
+    "endTime": 1761951540,
+    "lastUsed": 1744628722,
+    "useCount": 8172,
+    "ownerId": "owner_anon_40",
+    "updaterId": "owner_anon_40",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "d0f999c9-d507-4538-ba6b-e86fe1f83047",
+    "lectureName": "Ubuntu 20.04 LTS",
+    "description": "Ubuntu 20.04 LTS (64 bit)\n\nUbuntu 20.04 LTS-Betriebssystem mit Software-Grundausstattung. Dieses Betriebssystem wird vom Rechenzentrum zur Verfügung gestellt gestellt und kann von allen Studierenden genutzt werden. Es steht Dozierenden zur Ableitung zur Verfügung.\n\nInstallierte Software: \n -> FileZilla\n -> GIMP\n -> LaTeX\n -> LibreOffice\n -> Mozilla Firefox\n -> Python3\n -> Vim\n -> VLC Player",
+    "imageVersionId": "f7a620f9-0a13-48ca-8603-558f9f7346b4",
+    "imageBaseId": "44a6db1f-fa72-49d0-8bb6-ca6d9fd31583",
+    "isEnabled": true,
+    "startTime": 1503957600,
+    "endTime": 1753999140,
+    "lastUsed": 1744646984,
+    "useCount": 9541,
+    "ownerId": "owner_anon_2",
+    "updaterId": "owner_anon_5",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "d3265902-431c-421f-ba06-21a054ae526b",
+    "lectureName": "Aitschoffempeiers",
+    "description": "Nurzu testzwecken!",
+    "imageVersionId": "4966b362-3132-4423-927e-006f4d5c8db5",
+    "imageBaseId": "ff52f361-24ef-4f1e-83db-b5122d196842",
+    "isEnabled": false,
+    "startTime": 1716328800,
+    "endTime": 1716674340,
+    "lastUsed": 1716391413,
+    "useCount": 2,
+    "ownerId": "owner_anon_5",
+    "updaterId": "owner_anon_5",
+    "isExam": false,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": false,
+    "hasUsbAccess": true
+  },
+  {
+    "lectureId": "d6068801-787e-4742-9b2b-e76ff76c22e5",
+    "lectureName": "250129_SpeakingEnglish",
+    "description": "Prüfung Speaking English mit Headsets",
+    "imageVersionId": "f7a620f9-0a13-48ca-8603-558f9f7346b4",
+    "imageBaseId": "44a6db1f-fa72-49d0-8bb6-ca6d9fd31583",
+    "isEnabled": true,
+    "startTime": 1737586800,
+    "endTime": 1738191540,
+    "lastUsed": 1738152400,
+    "useCount": 53,
+    "ownerId": "owner_anon_4",
+    "updaterId": "owner_anon_4",
+    "isExam": true,
+    "hasInternetAccess": true,
+    "defaultPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "userPermissions": {
+      "edit": false,
+      "admin": false
+    },
+    "isImageVersionUsable": true,
+    "hasUsbAccess": true
+  }
+]

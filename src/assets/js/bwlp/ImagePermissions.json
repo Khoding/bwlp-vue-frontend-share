@@ -1,0 +1,28 @@
+[
+  {
+    "permissionId": "img_perm_1",
+    "imageBaseId": "image_base_abc",
+    "userId": "user_123",
+    "canLink": true,
+    "canDownload": true,
+    "canEdit": false,
+    "isAdmin": false,
+    "ownerId": "owner_anon_1",
+    "updaterId": "updater_anon_1",
+    "createTime": 1720000001,
+    "updateTime": 1720000001
+  },
+  {
+    "permissionId": "img_perm_2",
+    "imageBaseId": "image_base_def",
+    "groupId": "group_456",
+    "canLink": true,
+    "canDownload": true,
+    "canEdit": true,
+    "isAdmin": true,
+    "ownerId": "owner_anon_2",
+    "updaterId": "updater_anon_2",
+    "createTime": 1720000002,
+    "updateTime": 1720000002
+  }
+]

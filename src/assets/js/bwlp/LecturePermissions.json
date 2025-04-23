@@ -1,0 +1,24 @@
+[
+  {
+    "permissionId": "perm_1",
+    "lectureId": "lecture_abc",
+    "userId": "user_xyz",
+    "canEdit": true,
+    "canDownload": true,
+    "ownerId": "owner_anon_1",
+    "updaterId": "updater_anon_1",
+    "createTime": 1700000001,
+    "updateTime": 1700000001
+  },
+  {
+    "permissionId": "perm_2",
+    "lectureId": "lecture_def",
+    "groupId": "group_pqr",
+    "canEdit": false,
+    "canDownload": true,
+    "ownerId": "owner_anon_2",
+    "updaterId": "updater_anon_2",
+    "createTime": 1700000002,
+    "updateTime": 1700000002
+  }
+]

@@ -1,0 +1,657 @@
+[
+  {
+    "locationId": 2,
+    "locationName": "Poolraum -100",
+    "parentLocationId": 3
+  },
+  {
+    "locationId": 3,
+    "locationName": "Rechenzentrum",
+    "parentLocationId": 0
+  },
+  {
+    "locationId": 4,
+    "locationName": "Chemie",
+    "parentLocationId": 0
+  },
+  {
+    "locationId": 7,
+    "locationName": "AFP-Pool",
+    "parentLocationId": 4
+  },
+  {
+    "locationId": 8,
+    "locationName": "CIP-Pool",
+    "parentLocationId": 4
+  },
+  {
+    "locationId": 9,
+    "locationName": "UniBibliothek",
+    "parentLocationId": 0
+  },
+  {
+    "locationId": 10,
+    "locationName": "UB Stadtmitte - Pool OG2",
+    "parentLocationId": 9
+  },
+  {
+    "locationId": 19,
+    "locationName": "UB Stadtmitte - Pool OG4",
+    "parentLocationId": 9
+  },
+  {
+    "locationId": 20,
+    "locationName": "Lehrstuhl/1. OG",
+    "parentLocationId": 3
+  },
+  {
+    "locationId": 22,
+    "locationName": "Romanistik",
+    "parentLocationId": 225
+  },
+  {
+    "locationId": 23,
+    "locationName": "Medizinische Fakultät",
+    "parentLocationId": 0
+  },
+  {
+    "locationId": 24,
+    "locationName": "Poolraum -113",
+    "parentLocationId": 3
+  },
+  {
+    "locationId": 25,
+    "locationName": "Poolraum -114",
+    "parentLocationId": 3
+  },
+  {
+    "locationId": 26,
+    "locationName": "UB Stadtmitte - Seminar",
+    "parentLocationId": 9
+  },
+  {
+    "locationId": 27,
+    "locationName": "Fakultät für Umwelt",
+    "parentLocationId": 0
+  },
+  {
+    "locationId": 28,
+    "locationName": "Otto-Krayer-Haus",
+    "parentLocationId": 0
+  },
+  {
+    "locationId": 29,
+    "locationName": "Mathepool/2. OG",
+    "parentLocationId": 3
+  },
+  {
+    "locationId": 32,
+    "locationName": "Bibliothek für Chemie und Pharmazie",
+    "parentLocationId": 9
+  },
+  {
+    "locationId": 34,
+    "locationName": "UB Stadtmitte - Walkinplätze",
+    "parentLocationId": 9
+  },
+  {
+    "locationId": 35,
+    "locationName": "Fakultät für Biologie",
+    "parentLocationId": 0
+  },
+  {
+    "locationId": 36,
+    "locationName": "CIP-Pool -1.131",
+    "parentLocationId": 35
+  },
+  {
+    "locationId": 37,
+    "locationName": "CIP-Pool 0.043",
+    "parentLocationId": 35
+  },
+  {
+    "locationId": 39,
+    "locationName": "Technische Fakultät",
+    "parentLocationId": 0
+  },
+  {
+    "locationId": 40,
+    "locationName": "Gebäude 082",
+    "parentLocationId": 39
+  },
+  {
+    "locationId": 41,
+    "locationName": "Poolraum 00-021",
+    "parentLocationId": 40
+  },
+  {
+    "locationId": 42,
+    "locationName": "Poolraum 00-028",
+    "parentLocationId": 40
+  },
+  {
+    "locationId": 43,
+    "locationName": "Poolraum 00-029",
+    "parentLocationId": 40
+  },
+  {
+    "locationId": 44,
+    "locationName": "Poolraum 01-021",
+    "parentLocationId": 40
+  },
+  {
+    "locationId": 45,
+    "locationName": "|Kiosksysteme",
+    "parentLocationId": 0
+  },
+  {
+    "locationId": 62,
+    "locationName": "Zentrale Studienberatung",
+    "parentLocationId": 0
+  },
+  {
+    "locationId": 65,
+    "locationName": "Christian Reinlatsch-Platz",
+    "parentLocationId": 145
+  },
+  {
+    "locationId": 67,
+    "locationName": "Poolraum -110",
+    "parentLocationId": 3
+  },
+  {
+    "locationId": 69,
+    "locationName": "SLI",
+    "parentLocationId": 0
+  },
+  {
+    "locationId": 70,
+    "locationName": "Walkin EG",
+    "parentLocationId": 34
+  },
+  {
+    "locationId": 71,
+    "locationName": "Walkin OG1",
+    "parentLocationId": 34
+  },
+  {
+    "locationId": 72,
+    "locationName": "Walkin OG3",
+    "parentLocationId": 34
+  },
+  {
+    "locationId": 73,
+    "locationName": "CIP 1 1. OG",
+    "parentLocationId": 27
+  },
+  {
+    "locationId": 74,
+    "locationName": "CIP 2 1. OG",
+    "parentLocationId": 27
+  },
+  {
+    "locationId": 75,
+    "locationName": "CIP 3 3. OG",
+    "parentLocationId": 27
+  },
+  {
+    "locationId": 76,
+    "locationName": "CIP 4 (Seminarraum)",
+    "parentLocationId": 27
+  },
+  {
+    "locationId": 77,
+    "locationName": "Flur",
+    "parentLocationId": 27
+  },
+  {
+    "locationId": 81,
+    "locationName": "Geologie",
+    "parentLocationId": 0
+  },
+  {
+    "locationId": 95,
+    "locationName": "Bernstein Center",
+    "parentLocationId": 0
+  },
+  {
+    "locationId": 103,
+    "locationName": "RZ Test/VMs",
+    "parentLocationId": 3
+  },
+  {
+    "locationId": 108,
+    "locationName": "IMTEK-Pool",
+    "parentLocationId": 143
+  },
+  {
+    "locationId": 110,
+    "locationName": "Joey Test",
+    "parentLocationId": 145
+  },
+  {
+    "locationId": 112,
+    "locationName": "Gebäude 074",
+    "parentLocationId": 39
+  },
+  {
+    "locationId": 113,
+    "locationName": "023 Videokonferenzraum",
+    "parentLocationId": 103
+  },
+  {
+    "locationId": 114,
+    "locationName": "Phys. Geographie",
+    "parentLocationId": 0
+  },
+  {
+    "locationId": 115,
+    "locationName": "Bürorechner",
+    "parentLocationId": 114
+  },
+  {
+    "locationId": 117,
+    "locationName": "Werthmannstr. 4",
+    "parentLocationId": 0
+  },
+  {
+    "locationId": 118,
+    "locationName": "PC-Pool 7",
+    "parentLocationId": 117
+  },
+  {
+    "locationId": 119,
+    "locationName": "PC-Pool 6",
+    "parentLocationId": 117
+  },
+  {
+    "locationId": 120,
+    "locationName": "PC-Pool 1",
+    "parentLocationId": 117
+  },
+  {
+    "locationId": 121,
+    "locationName": "PC-Pool 3",
+    "parentLocationId": 117
+  },
+  {
+    "locationId": 122,
+    "locationName": "PC-Pool 9",
+    "parentLocationId": 130
+  },
+  {
+    "locationId": 123,
+    "locationName": "PC-Pool 2",
+    "parentLocationId": 117
+  },
+  {
+    "locationId": 124,
+    "locationName": "PC-Pool 9a",
+    "parentLocationId": 130
+  },
+  {
+    "locationId": 125,
+    "locationName": "Andere",
+    "parentLocationId": 117
+  },
+  {
+    "locationId": 127,
+    "locationName": "Linguistik Halford",
+    "parentLocationId": 69
+  },
+  {
+    "locationId": 130,
+    "locationName": "Poolraum 9 + 9a",
+    "parentLocationId": 117
+  },
+  {
+    "locationId": 132,
+    "locationName": "Infotafeln",
+    "parentLocationId": 117
+  },
+  {
+    "locationId": 133,
+    "locationName": "Hebelstr 10",
+    "parentLocationId": 0
+  },
+  {
+    "locationId": 135,
+    "locationName": "Schrott",
+    "parentLocationId": 20
+  },
+  {
+    "locationId": 137,
+    "locationName": "bwHPC/bwCloud Monitoring",
+    "parentLocationId": 20
+  },
+  {
+    "locationId": 139,
+    "locationName": "Großer Hörsaal",
+    "parentLocationId": 35
+  },
+  {
+    "locationId": 141,
+    "locationName": "Raum 112",
+    "parentLocationId": 3
+  },
+  {
+    "locationId": 142,
+    "locationName": "RSC",
+    "parentLocationId": 143
+  },
+  {
+    "locationId": 143,
+    "locationName": "IMTEK",
+    "parentLocationId": 39
+  },
+  {
+    "locationId": 145,
+    "locationName": "Spielraum 121",
+    "parentLocationId": 20
+  },
+  {
+    "locationId": 146,
+    "locationName": "Simon/Steffen Test",
+    "parentLocationId": 145
+  },
+  {
+    "locationId": 151,
+    "locationName": "|bwCloud",
+    "parentLocationId": 0
+  },
+  {
+    "locationId": 152,
+    "locationName": "Germanistik / dt. Sem.",
+    "parentLocationId": 0
+  },
+  {
+    "locationId": 154,
+    "locationName": "R 04005",
+    "parentLocationId": 152
+  },
+  {
+    "locationId": 155,
+    "locationName": "00 006",
+    "parentLocationId": 95
+  },
+  {
+    "locationId": 156,
+    "locationName": "Campus-Management",
+    "parentLocationId": 0
+  },
+  {
+    "locationId": 158,
+    "locationName": "Soziologie",
+    "parentLocationId": 226
+  },
+  {
+    "locationId": 159,
+    "locationName": "00 007",
+    "parentLocationId": 95
+  },
+  {
+    "locationId": 161,
+    "locationName": "Physik",
+    "parentLocationId": 0
+  },
+  {
+    "locationId": 162,
+    "locationName": "Geolpool 11",
+    "parentLocationId": 81
+  },
+  {
+    "locationId": 163,
+    "locationName": "Geolpool 5",
+    "parentLocationId": 81
+  },
+  {
+    "locationId": 165,
+    "locationName": "Gebäude 076",
+    "parentLocationId": 39
+  },
+  {
+    "locationId": 166,
+    "locationName": "Poolraum 00-004",
+    "parentLocationId": 165
+  },
+  {
+    "locationId": 167,
+    "locationName": "Poolraum 01-007",
+    "parentLocationId": 165
+  },
+  {
+    "locationId": 169,
+    "locationName": "Poolraum 01-001",
+    "parentLocationId": 165
+  },
+  {
+    "locationId": 170,
+    "locationName": "Poolraum 01-001 (78)",
+    "parentLocationId": 165
+  },
+  {
+    "locationId": 176,
+    "locationName": "Bibliothek der Technischen Fakultät",
+    "parentLocationId": 9
+  },
+  {
+    "locationId": 177,
+    "locationName": "Scanstation RZ UG",
+    "parentLocationId": 3
+  },
+  {
+    "locationId": 178,
+    "locationName": "Rebellen Rheinstr. 10",
+    "parentLocationId": 3
+  },
+  {
+    "locationId": 179,
+    "locationName": "Testrechner Sven",
+    "parentLocationId": 178
+  },
+  {
+    "locationId": 182,
+    "locationName": "Testbench",
+    "parentLocationId": 145
+  },
+  {
+    "locationId": 183,
+    "locationName": "Bibliothek für Kunstgeschichte",
+    "parentLocationId": 9
+  },
+  {
+    "locationId": 185,
+    "locationName": "Remote Sven",
+    "parentLocationId": 178
+  },
+  {
+    "locationId": 186,
+    "locationName": "Mathematisches Institut",
+    "parentLocationId": 0
+  },
+  {
+    "locationId": 187,
+    "locationName": "Didaktik",
+    "parentLocationId": 186
+  },
+  {
+    "locationId": 188,
+    "locationName": "Bibliothek der Forstwissenschaft",
+    "parentLocationId": 9
+  },
+  {
+    "locationId": 189,
+    "locationName": "KG IV",
+    "parentLocationId": 9
+  },
+  {
+    "locationId": 190,
+    "locationName": "Geschichte - Großraum",
+    "parentLocationId": 189
+  },
+  {
+    "locationId": 191,
+    "locationName": "Scanner-PC",
+    "parentLocationId": 183
+  },
+  {
+    "locationId": 192,
+    "locationName": "Anglistik",
+    "parentLocationId": 226
+  },
+  {
+    "locationId": 193,
+    "locationName": "Scanner-PC",
+    "parentLocationId": 188
+  },
+  {
+    "locationId": 194,
+    "locationName": "Bibliothek des Mathematischen Instituts",
+    "parentLocationId": 9
+  },
+  {
+    "locationId": 198,
+    "locationName": "KG I",
+    "parentLocationId": 9
+  },
+  {
+    "locationId": 199,
+    "locationName": "Alte Geschichte",
+    "parentLocationId": 198
+  },
+  {
+    "locationId": 200,
+    "locationName": "Philosophie und Erziehungswissenschaft",
+    "parentLocationId": 198
+  },
+  {
+    "locationId": 201,
+    "locationName": "Griechische und Lateinische Philologie",
+    "parentLocationId": 198
+  },
+  {
+    "locationId": 202,
+    "locationName": "Geschichte - 2. OG",
+    "parentLocationId": 189
+  },
+  {
+    "locationId": 203,
+    "locationName": "Bibliothek für Wirtschaftswissenschaften",
+    "parentLocationId": 9
+  },
+  {
+    "locationId": 204,
+    "locationName": "Pool",
+    "parentLocationId": 203
+  },
+  {
+    "locationId": 205,
+    "locationName": "Walkin",
+    "parentLocationId": 203
+  },
+  {
+    "locationId": 209,
+    "locationName": "Kiosks Theol.",
+    "parentLocationId": 45
+  },
+  {
+    "locationId": 210,
+    "locationName": "Exchange-Ort",
+    "parentLocationId": 146
+  },
+  {
+    "locationId": 211,
+    "locationName": "Bibliothek für Klassische Archäologie",
+    "parentLocationId": 9
+  },
+  {
+    "locationId": 212,
+    "locationName": "IT-Büro (Testgeräte)",
+    "parentLocationId": 9
+  },
+  {
+    "locationId": 213,
+    "locationName": "Bibliothek des Romanisches Seminars",
+    "parentLocationId": 198
+  },
+  {
+    "locationId": 214,
+    "locationName": "Hiwibüro",
+    "parentLocationId": 117
+  },
+  {
+    "locationId": 215,
+    "locationName": "dyn. Bereich",
+    "parentLocationId": 20
+  },
+  {
+    "locationId": 217,
+    "locationName": "chrtest temp",
+    "parentLocationId": 65
+  },
+  {
+    "locationId": 219,
+    "locationName": "Bibliothek der Geologie und Mineralogie",
+    "parentLocationId": 9
+  },
+  {
+    "locationId": 221,
+    "locationName": "FFU Dynpool",
+    "parentLocationId": 27
+  },
+  {
+    "locationId": 223,
+    "locationName": "Hörsaal 1099",
+    "parentLocationId": 225
+  },
+  {
+    "locationId": 225,
+    "locationName": "KG I",
+    "parentLocationId": 0
+  },
+  {
+    "locationId": 226,
+    "locationName": "KG IV",
+    "parentLocationId": 0
+  },
+  {
+    "locationId": 227,
+    "locationName": "Rektorat",
+    "parentLocationId": 0
+  },
+  {
+    "locationId": 228,
+    "locationName": "Raum 02033",
+    "parentLocationId": 227
+  },
+  {
+    "locationId": 229,
+    "locationName": "Geographie",
+    "parentLocationId": 0
+  },
+  {
+    "locationId": 230,
+    "locationName": "GKI Druckerraum",
+    "parentLocationId": 39
+  },
+  {
+    "locationId": 231,
+    "locationName": "DH-Lab Remote",
+    "parentLocationId": 234
+  },
+  {
+    "locationId": 232,
+    "locationName": "DH-Lab Local",
+    "parentLocationId": 234
+  },
+  {
+    "locationId": 233,
+    "locationName": "TF-remote",
+    "parentLocationId": 165
+  },
+  {
+    "locationId": 234,
+    "locationName": "DH-Lab",
+    "parentLocationId": 225
+  }
+]

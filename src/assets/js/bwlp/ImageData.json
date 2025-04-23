@@ -1,0 +1,41 @@
+{
+  "imageBaseId": "0024be31-7c3a-47e1-a745-e642f04051ee",
+  "latestVersionId": "75ce9ee9-2ad5-4694-a32e-15e46ce0c9fd",
+  "versions": [
+    {
+      "versionId": "75ce9ee9-2ad5-4694-a32e-15e46ce0c9fd",
+      "createTime": 1716391721,
+      "expireTime": 1747927721,
+      "fileSize": 4313841664,
+      "uploaderId": "uploader_anon_1",
+      "isRestricted": true,
+      "isValid": true,
+      "isProcessed": false,
+      "software": [],
+      "imagePath": "anonymized/path/to/image_1.vdi"
+    }
+  ],
+  "imageName": "Anonymized Image 1",
+  "description": "Anonymized Description 1",
+  "tags": [],
+  "osId": 12,
+  "virtId": "virtualbox",
+  "createTime": 1716391721,
+  "updateTime": 1716391721,
+  "ownerId": "owner_anon_1",
+  "updaterId": "updater_anon_1",
+  "shareMode": 0,
+  "isTemplate": false,
+  "defaultPermissions": {
+    "link": true,
+    "download": true,
+    "edit": false,
+    "admin": false
+  },
+  "userPermissions": {
+    "link": true,
+    "download": true,
+    "edit": false,
+    "admin": false
+  }
+}

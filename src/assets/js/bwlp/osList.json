@@ -1,0 +1,232 @@
+[
+  {
+    "osId": 1,
+    "osName": "Windows 7 (64 Bit)",
+    "virtualizerOsId": {
+      "virtualbox": "Windows7_64",
+      "vmware": "windows7-64"
+    },
+    "architecture": "AMD64",
+    "maxMemMb": 196608,
+    "maxCores": 256
+  },
+  {
+    "osId": 2,
+    "osName": "Windows 8 (32 Bit)",
+    "virtualizerOsId": {
+      "virtualbox": "Windows8",
+      "vmware": "windows8"
+    },
+    "architecture": "x86",
+    "maxMemMb": 4096,
+    "maxCores": 32
+  },
+  {
+    "osId": 3,
+    "osName": "Windows 8 (64 Bit)",
+    "virtualizerOsId": {
+      "virtualbox": "Windows8_64",
+      "vmware": "windows8-64"
+    },
+    "architecture": "AMD64",
+    "maxMemMb": 131072,
+    "maxCores": 256
+  },
+  {
+    "osId": 4,
+    "osName": "Ubuntu (32 Bit)",
+    "virtualizerOsId": {
+      "virtualbox": "Ubuntu",
+      "vmware": "ubuntu"
+    },
+    "architecture": "x86",
+    "maxMemMb": 0,
+    "maxCores": 0
+  },
+  {
+    "osId": 5,
+    "osName": "Ubuntu (64 Bit)",
+    "virtualizerOsId": {
+      "virtualbox": "Ubuntu_64",
+      "vmware": "ubuntu-64"
+    },
+    "architecture": "AMD64",
+    "maxMemMb": 0,
+    "maxCores": 0
+  },
+  {
+    "osId": 6,
+    "osName": "OpenSUSE (32 Bit)",
+    "virtualizerOsId": {
+      "virtualbox": "OpenSUSE",
+      "vmware": "opensuse"
+    },
+    "architecture": "x86",
+    "maxMemMb": 0,
+    "maxCores": 0
+  },
+  {
+    "osId": 7,
+    "osName": "OpenSUSE (64 Bit)",
+    "virtualizerOsId": {
+      "virtualbox": "OpenSUSE_64",
+      "vmware": "opensuse-64"
+    },
+    "architecture": "AMD64",
+    "maxMemMb": 0,
+    "maxCores": 0
+  },
+  {
+    "osId": 8,
+    "osName": "Other Linux (32 Bit)",
+    "virtualizerOsId": {
+      "virtualbox": "Linux",
+      "vmware": "other3xlinux"
+    },
+    "architecture": "x86",
+    "maxMemMb": 0,
+    "maxCores": 0
+  },
+  {
+    "osId": 9,
+    "osName": "Other Linux (64 Bit)",
+    "virtualizerOsId": {
+      "virtualbox": "Linux_64",
+      "vmware": "other3xlinux-64"
+    },
+    "architecture": "AMD64",
+    "maxMemMb": 0,
+    "maxCores": 0
+  },
+  {
+    "osId": 10,
+    "osName": "Windows 7 (32 Bit)",
+    "virtualizerOsId": {
+      "virtualbox": "Windows7",
+      "vmware": "windows7"
+    },
+    "architecture": "x86",
+    "maxMemMb": 4096,
+    "maxCores": 32
+  },
+  {
+    "osId": 11,
+    "osName": "Windows 2000 Professional",
+    "virtualizerOsId": {
+      "virtualbox": "Windows2000",
+      "vmware": "win2000pro"
+    },
+    "architecture": "x86",
+    "maxMemMb": 4096,
+    "maxCores": 4
+  },
+  {
+    "osId": 12,
+    "osName": "Windows XP (32 Bit)",
+    "virtualizerOsId": {
+      "virtualbox": "WindowsXP",
+      "vmware": "winxppro"
+    },
+    "architecture": "x86",
+    "maxMemMb": 4096,
+    "maxCores": 8
+  },
+  {
+    "osId": 13,
+    "osName": "Debian (32Bit)",
+    "virtualizerOsId": {
+      "virtualbox": "Debian",
+      "vmware": "debian8"
+    },
+    "architecture": "x86",
+    "maxMemMb": 0,
+    "maxCores": 0
+  },
+  {
+    "osId": 14,
+    "osName": "Debian (64Bit)",
+    "virtualizerOsId": {
+      "virtualbox": "Debian_64",
+      "vmware": "debian8-64"
+    },
+    "architecture": "AMD64",
+    "maxMemMb": 0,
+    "maxCores": 0
+  },
+  {
+    "osId": 15,
+    "osName": "DOS",
+    "virtualizerOsId": {
+      "virtualbox": "DOS",
+      "vmware": "dos"
+    },
+    "architecture": "x86",
+    "maxMemMb": 32,
+    "maxCores": 1
+  },
+  {
+    "osId": 16,
+    "osName": "Anderes (32 Bit)",
+    "virtualizerOsId": {
+      "virtualbox": "Other",
+      "vmware": "other"
+    },
+    "architecture": "x86",
+    "maxMemMb": 0,
+    "maxCores": 0
+  },
+  {
+    "osId": 17,
+    "osName": "Anderes (64 Bit)",
+    "virtualizerOsId": {
+      "virtualbox": "Other_64",
+      "vmware": "other-64"
+    },
+    "architecture": "AMD64",
+    "maxMemMb": 0,
+    "maxCores": 0
+  },
+  {
+    "osId": 18,
+    "osName": "Windows 10 (64 Bit)",
+    "virtualizerOsId": {
+      "virtualbox": "Windows10_64",
+      "vmware": "windows9-64"
+    },
+    "architecture": "AMD64",
+    "maxMemMb": 131072,
+    "maxCores": 256
+  },
+  {
+    "osId": 19,
+    "osName": "Windows NT 4",
+    "virtualizerOsId": {
+      "virtualbox": "WindowsNT",
+      "vmware": "winnt"
+    },
+    "architecture": "x86",
+    "maxMemMb": 4096,
+    "maxCores": 4
+  },
+  {
+    "osId": 20,
+    "osName": "Windows 98",
+    "virtualizerOsId": {
+      "vmware": "win98"
+    },
+    "architecture": "x86",
+    "maxMemMb": 256,
+    "maxCores": 1
+  },
+  {
+    "osId": 21,
+    "osName": "Windows 11",
+    "virtualizerOsId": {
+      "virtualbox": "Windows11_64",
+      "vmware": "windows11-64"
+    },
+    "architecture": "AMD64",
+    "maxMemMb": 131072,
+    "maxCores": 256
+  }
+]

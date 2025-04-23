@@ -1,0 +1,95 @@
+@import '@/assets/css/fonts.css';
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  html {
+    interpolate-size: allow-keywords; /* This is a new keyword that's not fully supported yet, but pretty cool, read about it here https://www.joshwcomeau.com/email/2025-03-24-animating-height-auto-wham/ */
+  }
+}
+
+/* Uncomment this to test RTL */
+/* html {
+  direction: rtl;
+} */
+
+html {
+  overflow-y: scroll;
+  scrollbar-color: var(--surface) var(--on-surface);
+
+  &::-webkit-scrollbar-track {
+    background: var(--surface);
+  }
+
+  &::-webkit-scrollbar-thumb {
+    background: var(--on-surface);
+  }
+}
+
+/* Reset other scrollbars to Beer CSS defaults */
+* {
+  scrollbar-color: initial;
+}
+
+/* Exclude main scrollbar from reset */
+html:not(*) {
+  scrollbar-color: var(--surface) var(--on-surface);
+
+  &::-webkit-scrollbar-track {
+    background: var(--surface);
+  }
+
+  &::-webkit-scrollbar-thumb {
+    background: var(--on-surface);
+  }
+}
+
+.page-slide-enter-active {
+  transition: all 0.5s ease-out;
+}
+
+.page-slide-leave-active {
+  transition: all 0.3s cubic-bezier(1, 0.5, 0.8, 1);
+}
+
+.page-slide-enter-from,
+.page-slide-leave-to {
+  opacity: 0;
+}
+
+.page-slide-enter-from {
+  transform: translateX(60px);
+}
+
+.page-slide-leave-to {
+  transform: translateX(-60px);
+}
+
+.page-slide-fast-enter-active {
+  transition: all 0.3s ease-out;
+}
+
+.page-slide-fast-leave-active {
+  transition: all 0.1s cubic-bezier(1, 0.5, 0.8, 1);
+}
+
+.page-slide-fast-enter-from,
+.page-slide-fast-leave-to {
+  opacity: 0;
+}
+
+.page-slide-fast-enter-from {
+  transform: translateX(20px);
+}
+
+.page-slide-fast-leave-to {
+  transform: translateX(-20px);
+}
+
+.no-break {
+  white-space: nowrap;
+}

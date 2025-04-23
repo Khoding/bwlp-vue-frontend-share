@@ -1,0 +1,11 @@
+{
+  "imageList": "Image List",
+  "lectureList": "Lecture List",
+  "legalStuff": "Legal Stuff",
+  "privacyPolicy": "Privacy Policy",
+  "userAgreement": {
+    "title": "User Agreement",
+    "content": "By using this website, you agree to the following terms and conditions"
+  },
+  "miscellaneous": "Miscellaneous"
+}
