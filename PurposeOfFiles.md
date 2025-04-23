@@ -57,7 +57,3 @@ So, I use VS Code like a fucking pro :Kappa:, in `./bwlp-vue-frontend.code-works
 You can read about code-workspaces [on the official VS Code documentation](https://code.visualstudio.com/docs/editing/workspaces/workspaces).
 
 I often make use of [Multi-root workspaces](https://code.visualstudio.com/docs/editing/workspaces/workspaces#_multiroot-workspaces), like I had the original repo from the old frontend referenced there and I could browse the code easily.
-
-## Promise
-
-I, Julien Rutscho, trust you, Isabela Denisa Mocanu, with My Life's Work, and I know you will be giving it your best, which is probably better than my best, so we're in for a hell of a ride!
