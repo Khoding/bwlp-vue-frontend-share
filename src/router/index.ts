@@ -51,6 +51,10 @@ const routes: RouteRecordRaw[] = [
     },
   },
   {
+    path: '/',
+    redirect: '/image',
+  },
+  {
     path: '/image',
     name: 'ImageList',
     component: ImageListView,

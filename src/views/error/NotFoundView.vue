@@ -19,7 +19,7 @@ import {useRouter} from 'vue-router';
 
 const router = useRouter();
 
-const timeLeft = ref(100);
+const timeLeft = ref(5);
 const secondText = ref('secondes');
 const redirecting = ref(true);
 
